@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="4"
+	showOpenButton="false"
+	showFullscreenButton="true"
+	frameWidth="0"
+	galleryStyle="MODERN"
+	title=""
+
+>
+  <image imageURL="images/IMG_0450.jpg"
+	thumbURL="thumbs/IMG_0450.jpg"
+	linkURL="images/IMG_0450.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rabah, Maroc]]></caption>
+  </image>
+  <image imageURL="images/IMG_1189.jpg"
+	thumbURL="thumbs/IMG_1189.jpg"
+	linkURL="images/IMG_1189.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Percé, Québec]]></caption>
+  </image>
+  <image imageURL="images/IMG_4028.jpg"
+	thumbURL="thumbs/IMG_4028.jpg"
+	linkURL="images/IMG_4028.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5148-49-50 v2.jpg"
+	thumbURL="thumbs/IMG_5148-49-50 v2.jpg"
+	linkURL="images/IMG_5148-49-50 v2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Santa Monica, Californie]]></caption>
+  </image>
+  <image imageURL="images/IMG_6451.jpg"
+	thumbURL="thumbs/IMG_6451.jpg"
+	linkURL="images/IMG_6451.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mystaya canyon, Alberta]]></caption>
+  </image>
+  <image imageURL="images/IMG_7037.jpg"
+	thumbURL="thumbs/IMG_7037.jpg"
+	linkURL="images/IMG_7037.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ram Mountain,, Alberta]]></caption>
+  </image>
+  <image imageURL="images/IMG_7071.jpg"
+	thumbURL="thumbs/IMG_7071.jpg"
+	linkURL="images/IMG_7071.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ram Mountain,, Alberta]]></caption>
+  </image>
+  <image imageURL="images/IMG_9464.jpg"
+	thumbURL="thumbs/IMG_9464.jpg"
+	linkURL="images/IMG_9464.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Niamey, Niger]]></caption>
+  </image>
+</simpleviewergallery>

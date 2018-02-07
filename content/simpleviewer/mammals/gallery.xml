@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="4"
+	showOpenButton="false"
+	showFullscreenButton="true"
+	frameWidth="0"
+	galleryStyle="MODERN"
+	title=""
+
+>
+  <image imageURL="images/243R1PhotoJulienMartin 2.jpg"
+	thumbURL="thumbs/243R1PhotoJulienMartin 2.jpg"
+	linkURL="images/243R1PhotoJulienMartin 2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Tamias striatus]]></caption>
+  </image>
+  <image imageURL="images/IMG_5918.JPG"
+	thumbURL="thumbs/IMG_5918.JPG"
+	linkURL="images/IMG_5918.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Ursus americanus]]></caption>
+  </image>
+  <image imageURL="images/IMG_5939.JPG"
+	thumbURL="thumbs/IMG_5939.JPG"
+	linkURL="images/IMG_5939.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Marmota caligata]]></caption>
+  </image>
+  <image imageURL="images/IMG_6297.JPG"
+	thumbURL="thumbs/IMG_6297.JPG"
+	linkURL="images/IMG_6297.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Urocitellus richardsonii]]></caption>
+  </image>
+  <image imageURL="images/IMG_6519.JPG"
+	thumbURL="thumbs/IMG_6519.JPG"
+	linkURL="images/IMG_6519.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Callospermophilus lateralis]]></caption>
+  </image>
+  <image imageURL="images/IMG_6532.JPG"
+	thumbURL="thumbs/IMG_6532.JPG"
+	linkURL="images/IMG_6532.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Pica pica]]></caption>
+  </image>
+  <image imageURL="images/IMG_7213.JPG"
+	thumbURL="thumbs/IMG_7213.JPG"
+	linkURL="images/IMG_7213.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Tamiasriscus hudsonicus]]></caption>
+  </image>
+  <image imageURL="images/IMG_9558.jpg"
+	thumbURL="thumbs/IMG_9558.jpg"
+	linkURL="images/IMG_9558.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Giraffa camelopardalis]]></caption>
+  </image>
+</simpleviewergallery>
