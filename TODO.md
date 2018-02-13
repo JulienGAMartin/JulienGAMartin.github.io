@@ -1,6 +1,7 @@
 # Short term
-* update all pages to new stuff
-* change link on abdn profile
+* update collaborations
+* update research page
+* ask for more pictures to students
 
 # Long-term
 * migrate toward jekyll
