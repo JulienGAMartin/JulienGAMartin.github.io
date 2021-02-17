@@ -1,46 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Biology
+    institution: Université de Sherbrooke, Sherbrooke, Qc, Canada
+    year: 2010
+  - course: MSc in Biology
+    institution: Université du Québec à Montréal, Montréal, Qc, Canada
+    year: 2006
+  - course: Maitrise en Écologie
+    institution: Université Henri Poincarré Nancy II, Nancy, France
+    year: 2003
+email: "julien.martin@uottawa.ca"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantitative genetic
+- Evolution in natural environment
+- Life-history strategies
+- Rugby
+- Photgraphy
+- Woodworking
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of Ottawa
+  url: "https://science.uottawa.ca/biology/people/martin-julien"
+role: Professor of Quantitative biology
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:julien.martin@uottawa.ca
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JGAMartin
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=w6axPGHSSWsC&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JulienGAMartin
 superuser: true
-title: Nelson Bighetti
+title: Julien Martin
 user_groups:
-- Researchers
+- Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am generally interested in understanding the causes of variation in life history traits in wild populations, with particular on the causes and consequences of within-individual variation in life history. The focus of my research is the evolutionary ecology of reproductive strategies and understanding the impact of environmental variation on adaptation and evolution of traits.

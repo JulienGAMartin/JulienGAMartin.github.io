@@ -19,16 +19,21 @@
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Projects"
+  url = "projects"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Courses"
+  url = "courses"
   weight = 50
 
 [[main]]
+  name = "Opportunities"
+  url = "opportunities"
+  weight = 60
+
+  [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70

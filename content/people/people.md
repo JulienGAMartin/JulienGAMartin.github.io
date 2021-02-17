@@ -1,12 +1,15 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
+  - Principal Investigator
+  - Postdocs
+  - PhD students
+  - MSc students
+  - Honours students
   - Visitors
-  - Alumni
+  - Alumni PhD
+  - Alumni MSc
+  - Alumni Honours
 design:
   show_interests: false
   show_role: true
