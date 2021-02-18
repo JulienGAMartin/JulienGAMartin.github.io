@@ -39,7 +39,7 @@ jobs:
 
       - name: Build site via blogdown
         run: |
-          R -e 'blogdown::install_hugo(version = "0.80", extended = TRUE")'
+          R -e 'blogdown::install_hugo(version = "0.80", extended = TRUE)'
           R -e 'blogdown::build_site(TRUE)'
           R -e 'file.create("public/.nojekyll")'
 
