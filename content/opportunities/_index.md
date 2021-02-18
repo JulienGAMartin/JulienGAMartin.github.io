@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Events
+title: Recent & Upcoming opportunities
 # view: 2
 ---

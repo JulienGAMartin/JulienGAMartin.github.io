@@ -1,12 +1,7 @@
 ---
 content:
   user_groups:
-  - Principal Investigator
-  - Postdocs
-  - PhD students
-  - MSc students
-  - Honours students
-  - Visitors
+  - Previous postdocs
   - Alumni PhD
   - Alumni MSc
   - Alumni Honours
@@ -16,7 +11,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
-weight: 68
+title: Previous lab members
+weight: 20
 widget: people
 ---
