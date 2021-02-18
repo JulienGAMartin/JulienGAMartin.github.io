@@ -28,9 +28,9 @@ jobs:
           key: r-${{ hashFiles('renv.lock') }}
           restore-keys: r-
 
-      - name: Install hugo
-        run: |
-          brew install hugo
+#      - name: Install hugo
+#        run: |
+#          brew install hugo
 
       - name: Install packages
         run: |
@@ -39,6 +39,7 @@ jobs:
 
       - name: Build site via blogdown
         run: |
+          R -e 'blogdown::install_hugo(version = "0.80", extended = TRUE")'
           R -e 'blogdown::build_site(TRUE)'
           R -e 'file.create("public/.nojekyll")'
 
