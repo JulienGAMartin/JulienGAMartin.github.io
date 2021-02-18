@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/home/welcome/</loc>
-  </url>
-  
-  <url>
-    <loc>/home/news/</loc>
-  </url>
-  
-  <url>
-    <loc>/home/image/</loc>
-  </url>
-  
-  <url>
     <loc>/opportunities/example-copy-2/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -186,10 +174,6 @@
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/home/</loc>
   </url>
   
   <url>
