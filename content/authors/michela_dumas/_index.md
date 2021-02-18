@@ -1,36 +1,40 @@
 ---
 authors:
-- your name
-bio: ""
+- Michela Dumas
+bio: 
+education:
+  courses:
+  - course: Master in Ethology
+    institution: Université Sorbonne Paris Nord
+    year: 2020
+  - course: B.Sc. in Biology
+    institution: University of Ottawa
+    year: 2017
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sexual Selection
+- Mate Choice
 organizations:
-- name: Stanford University
+- name: University of Ottawa
   url: ""
-role: My research interests include distributed robotics, mobile computing and programmable
-  matter
+role: Sexual Selection and Mating Strategies in a Bird with Little Apparent Sexual Dimorphism
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mduma060@uottawa.ca
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/michela_dumas
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: ""
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MNDumas
 superuser: false
-title: your name
+title: Michela Dumas
 user_groups:
-- Visitors
+- PhD students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Michela uses a quantitative genetic approach to investigate how sexual selection operates within and between the sexes in a species with little apparent sexual dimorphism, the Alpine Swift (Tachymarptis melba). Specifically, she seeks to identify which ornamental traits are under sexual selection and if those traits have similar signalling values in both sexes, as well as the direct and indirect fitness benefits of mating strategies such as divorce. Michela looks forward to hiking in the Swiss Alps following next summer’s field work season to collect her data. 
