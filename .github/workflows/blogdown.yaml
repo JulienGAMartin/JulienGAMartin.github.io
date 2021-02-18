@@ -40,6 +40,8 @@ jobs:
       - name: Build site via blogdown
         run: |
           R -e 'blogdown::build_site(TRUE)'
+          R -e 'file.create("docs/.nojekyll")'
+
 
       - name: Install npm
         uses: actions/setup-node@v1
@@ -49,5 +51,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: docs/ # The folder the action should deploy.
+          FOLDER: public/ # The folder the action should deploy.
           CLEAN: true 
