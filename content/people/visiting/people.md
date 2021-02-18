@@ -8,7 +8,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Current and past glorious visitors to the lab
+title: Current and former *glorious* visitors to the lab
 weight: 20
 widget: people
 ---

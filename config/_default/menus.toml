@@ -51,13 +51,13 @@
   weight = 70
 
 [[main]]
-  name = "Current lab member"
+  name = "Current lab members"
   parent = "People"
   url = "people/people"
   weight = 1
 
 [[main]]
-  name = "Alumni"
+  name = "Former lab members"
   parent = "People"
   url = "people/alumni"
   weight = 2

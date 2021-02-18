@@ -1,7 +1,7 @@
 ---
 content:
   user_groups:
-  - Previous postdocs
+  - Former postdocs
   - Alumni PhD
   - Alumni MSc
   - Alumni Honours
@@ -11,7 +11,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Previous lab members
+title: Former lab members
 weight: 20
 widget: people
 ---
