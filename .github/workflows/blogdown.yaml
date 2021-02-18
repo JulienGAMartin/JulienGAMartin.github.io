@@ -40,7 +40,7 @@ jobs:
       - name: Build site via blogdown
         run: |
           R -e 'blogdown::build_site(TRUE)'
-          R -e 'file.create("docs/.nojekyll")'
+          R -e 'file.create("public/.nojekyll")'
 
 
       - name: Install npm
