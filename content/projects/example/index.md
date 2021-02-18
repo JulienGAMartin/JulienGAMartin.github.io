@@ -30,6 +30,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+draft: true
 ---
 
 Slides can be added in a few ways:

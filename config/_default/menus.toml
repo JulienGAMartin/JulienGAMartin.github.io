@@ -28,6 +28,18 @@
   url = "courses"
   weight = 50
 
+  [[main]]
+  name = "uOttawa classes"
+  parent = "Courses"
+  url = "courses/uottawa"
+  weight = 1
+
+  [[main]]
+  name = "Tutorials"
+  parent = "Courses"
+  url = "courses/tutorials"
+  weight = 2
+
 [[main]]
   name = "Opportunities"
   url = "opportunities"
