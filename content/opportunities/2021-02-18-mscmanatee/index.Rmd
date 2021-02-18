@@ -1,0 +1,44 @@
+---
+title: "MSc in behavioural ecology"
+author: "Julien Martin"
+date: 2021-02-18
+categories: ["Opportunities"]
+tags: ["manatees", "UAV"]
+summary: MSc on behavioural ecology of manatees
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+---
+
+![](YBmarmot.jpg)
+
+# Project
+Using well known population of manatees along the east coast of Mexico, the project will be looking at social behaviours and spatial use of manatees as a function of their ecotypes. Data collection will be done from the shore using aerial imaging from a small UAV (unmanned aerial vehicle).  
+
+The project will be supervised by **Julien Martin** (uOttawa). The project will be done in collaboration with **Guillaume Rieucau** (LUMCON, UCLA, USA). The student will be based at the Biology department of the University of Ottawa and will participate to field work in Mexico during the summer. 
+
+# Financial support
+Available for 2 years. The student is expected to complete a minimum of two teaching assistantship per year.
+
+# Starting date
+
+Ideally September 2021 or January 2022
+
+# Candidate Profile
+The ideal candidate should have: 
+
+- BSc in biology.
+- A strong interest for statistical analyses and R programming.
+- The ability to work alone and in teams.
+- A willingness to work in French and in English.
+
+# How to apply
+Students that are interested should send by email to Julien Martin (julien.martin@uottawa.ca):
+
+- a writing sample (thesis, paper or scientific article),
+- a CV, a motivation letter
+- the contact of two references
+- a copy of their transcripts
+
+![](YBmarmot.jpg)
