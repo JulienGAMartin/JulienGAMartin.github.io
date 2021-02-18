@@ -1,60 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming opportunities | The MAD lab</title>
-    <link>/opportunities/</link>
-      <atom:link href="/opportunities/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming opportunities</description>
+    <title>marmots | The MAD lab</title>
+    <link>/tag/marmots/</link>
+      <atom:link href="/tag/marmots/index.xml" rel="self" type="application/rss+xml" />
+    <description>marmots</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming opportunities</title>
-      <link>/opportunities/</link>
+      <title>marmots</title>
+      <link>/tag/marmots/</link>
     </image>
     
     <item>
-      <title>MSc in behavioural ecology</title>
-      <link>/opportunities/2021-02-18-mscmanatee/</link>
+      <title>2 MSc and 1 PhD available</title>
+      <link>/post/2021-02-18-grad_position/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/opportunities/2021-02-18-mscmanatee/</guid>
+      <guid>/post/2021-02-18-grad_position/</guid>
       <description>
 
 
-&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
-&lt;div id=&#34;project&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Project&lt;/h1&gt;
-&lt;p&gt;Using well known population of manatees along the east coast of Mexico, the project will be looking at the variation in foraging behaviour with reproductive status in manatees using a spatial ecology approach based on aerial imaging. Data collection will be done from the shore using aerial imaging from a small UAV (unmanned aerial vehicle).&lt;/p&gt;
-&lt;p&gt;The project will be supervised by &lt;strong&gt;Julien Martin&lt;/strong&gt; (uOttawa). The project will be done in collaboration with &lt;strong&gt;Guillaume Rieucau&lt;/strong&gt; (LUMCON, UCLA, USA). The student will be based at the Biology department of the University of Ottawa and will participate to field work in Mexico during the summer.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;financial-support&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Financial support&lt;/h1&gt;
-&lt;p&gt;Available for 2 years. The student is expected to complete a minimum of two teaching assistantship per year.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;starting-date&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Starting date&lt;/h1&gt;
-&lt;p&gt;Ideally September 2021 or January 2022&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;candidate-profile&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Candidate Profile&lt;/h1&gt;
-&lt;p&gt;The ideal candidate should have:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BSc in biology.&lt;/li&gt;
-&lt;li&gt;A strong interest for statistical analyses and R programming.&lt;/li&gt;
-&lt;li&gt;The ability to work alone and in teams.&lt;/li&gt;
-&lt;li&gt;A willingness to work in French and in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;how-to-apply&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;How to apply&lt;/h1&gt;
-&lt;p&gt;Students that are interested should send by email to Julien Martin (&lt;a href=&#34;mailto:julien.martin@uottawa.ca&#34; class=&#34;email&#34;&gt;julien.martin@uottawa.ca&lt;/a&gt;):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a writing sample (thesis, paper or scientific article),&lt;/li&gt;
-&lt;li&gt;a CV, a motivation letter&lt;/li&gt;
-&lt;li&gt;the contact of two references&lt;/li&gt;
-&lt;li&gt;a copy of their transcripts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;I have 3 positions graduate positions available in my lab on evolutionary ecology and behavioural ecology
+of marmots and manatees.
+Please see &lt;a href=&#34;/opportunities&#34;&gt;Opportunities&lt;/a&gt; for more details&lt;/p&gt;
 </description>
     </item>
     
