@@ -8,7 +8,7 @@ name: blogdown
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -28,16 +28,16 @@ jobs:
           key: r-${{ hashFiles('renv.lock') }}
           restore-keys: r-
 
+      - name: Install hugo
+        run: |
+          brew install hugo
+
       - name: Install packages
         run: |
           R -e 'install.packages(c("renv", "rmarkdown", "blogdown"))'
           R -e 'renv::restore()'
 
-      - name: Install hugo
-        run: |
-          R -e 'blogdown::install_hugo()'
-
-      - name: Build site
+      - name: Build site via blogdown
         run: |
           R -e 'blogdown::build_site(TRUE)'
 
