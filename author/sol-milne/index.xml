@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sol Milne | The MAD lab</title>
+    <link>/author/sol-milne/</link>
+      <atom:link href="/author/sol-milne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sol Milne</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/author/sol-milne/avatar_hu02352adb67f2c7992b87431fd9c863db_69850_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sol Milne</title>
+      <link>/author/sol-milne/</link>
+    </image>
+    
+  </channel>
+</rss>
