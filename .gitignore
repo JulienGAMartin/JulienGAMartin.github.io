@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 public/
-docs-old
+docs-old/
+docs-local/
