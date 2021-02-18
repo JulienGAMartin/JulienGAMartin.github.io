@@ -26,7 +26,7 @@
 [[main]]
   name = "Courses"
   url = "courses"
-  weight = 50
+  weight = 60
 
   [[main]]
   name = "uOttawa classes"
@@ -43,7 +43,7 @@
 [[main]]
   name = "Opportunities"
   url = "opportunities"
-  weight = 60
+  weight = 50
 
   [[main]]
   name = "Contact"
