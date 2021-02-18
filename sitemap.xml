@@ -8,16 +8,6 @@
   </url>
   
   <url>
-    <loc>/opportunities/example-copy/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/opportunities/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/projects/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -43,12 +33,12 @@
   </url>
   
   <url>
-    <loc>/post-remove/2020-12-01-r-rmarkdown/</loc>
+    <loc>/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post-remove/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
@@ -78,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/post-remove/20-12-02-icml-best-paper/</loc>
+    <loc>/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post-remove/20-12-01-wowchemy-prize/</loc>
+    <loc>/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
