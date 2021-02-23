@@ -1,44 +1,33 @@
 ---
 authors:
-- Bennett Krasnay # your name
-bio: # leave blank
-education: # please fill in use "" for empty
+- Bennett Krasnay
+bio:
+education:
   courses:
-  - course: PhD.
+  - course: BSc Honours Biology, Ecology/Evolution/Behaviour Option
     institution: University of Ottawa
-    year: 2017 - present
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-email: "" # email here
-interests: # can add more if you want
-- keyword 1
-- keyword 2
-- keyword 3
+    year: 2017-present
+email: "bkras067@uottawa.ca"
+interests:
+- Evolutionary biology
+- Comparative physiology
+- Cycling
+- Martial arts
 organizations:
-- name: University of Ottawa 
-  url: "" # your webpage here
-role: An amazing project # project title
+- name: University of Ottawa
+  url: "https://www.uottawa.ca/en"
+role: Sex Dependent Genetic Basis of Longevity in Yellow Bellied Marmots
 social:
 - icon: envelope
   icon_pack: fas
-  link:  # email here
+  link: bkras067@uottawa.ca
 - icon: twitter
   icon_pack: fab
-  link:  # twitter account in format https://twitter.com/account_name
-- icon: google-scholar
-  icon_pack: ai
-  link: ""
-- icon: github
-  icon_pack: fab
-  link:  # github account in format https://github.com/github_name
+  link: https://twitter.com/BKrasnay
 superuser: false
-title: Bennett Krasnay # your name
+title: Bennett Krasnay
 user_groups:
 - Honours students
 ---
 
-Something interesting about me
+I am using a quantitative genetic method to evaluate heritability of longevity within and between sexes in Yellow Bellied Marmots. This project features data from a long-term database on marmot life history traits collected at the Rocky Mountain Biological Laboratory in Colorado. I hope to branch out and explore different branches of evolutionary and comparative biology in the future.

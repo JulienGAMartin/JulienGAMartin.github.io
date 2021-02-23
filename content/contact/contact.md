@@ -12,7 +12,7 @@ design:
 headless: true
 subtitle: null
 title: Contact
-weight: 10
+weight: 30
 widget: contact
 ---
 
