@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Jebb | MAD lab</title>
+    <link>/fr/author/alex-jebb/</link>
+      <atom:link href="/fr/author/alex-jebb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Jebb</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-ca</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/fr/author/alex-jebb/avatar_hu1e3bb9a8c76050cbcdb44588fa93ce41_24388_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alex Jebb</title>
+      <link>/fr/author/alex-jebb/</link>
+    </image>
+    
+  </channel>
+</rss>
