@@ -5,3 +5,4 @@
 public/
 docs-old/
 docs-local/
+*.code-workspace
