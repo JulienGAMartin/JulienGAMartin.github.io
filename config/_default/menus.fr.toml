@@ -1,0 +1,68 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+#[[main]]
+#  name = "Home"
+#  url = "/"
+#  weight = 10
+
+[[main]]
+  name = "Nouvelles"
+  url = "post"
+  weight = 20
+[[main]]
+  name = "Personnes"
+  url = "people"
+  weight = 40
+
+[[main]]
+  name = "Recherche"
+  url = "projects"
+  weight = 30
+
+[[main]]
+  name = "Cours"
+  url = "courses"
+  weight = 60
+
+[[main]]
+  name = "Cours uOttawa"
+  parent = "Cours"
+  url = "courses/uottawa"
+  weight = 1
+
+[[main]]
+  name = "Tutoriels"
+  parent = "Cours"
+  url = "courses/tutorials"
+  weight = 2
+
+[[main]]
+  name = "Opportunitées"
+  url = "opportunities"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  url = "contact"
+  weight = 70
+
+[[main]]
+  name = "Membres actuels"
+  parent = "Personnes"
+  url = "people/people"
+  weight = 1
+
+[[main]]
+  name = "Membres passés"
+  parent = "Personnes"
+  url = "people/alumni"
+  weight = 2
+
+[[main]]
+  name = "Visiteurs"
+  parent = "Personnes"
+  url = "people/visiting"
+  weight = 3
