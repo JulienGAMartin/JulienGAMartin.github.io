@@ -4,41 +4,26 @@ authors:
 bio: # leave blank
 education: # please fill in use "" for empty
   courses:
-  - course: BSc.
-    institution: University of Blablabla
-    year: 2000 - present
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-email: "" # email here
-interests: # can add more if you want
-- keyword 1
-- keyword 2
-- keyword 3
+  - course: BSc. in Biology option Ecology/Evolution/Behaviour
+    institution: University of Ottawa
+    year: 2021
+email: cfiot073@uottawa.ca
+interests:
+- Animal Behaviour
+- Evolutionary Ecology
+- Conservation Biology
 organizations:
 - name: University of Ottawa 
   url: "" # your webpage here
-role: An amazing project # project title
+role: Influence of kin group size on individual reproduction and survival of yellow-bellied marmots.
 social:
 - icon: envelope
   icon_pack: fas
-  link:  # email here
-- icon: twitter
-  icon_pack: fab
-  link:  # twitter account in format https://twitter.com/account_name
-- icon: google-scholar
-  icon_pack: ai
-  link: ""
-- icon: github
-  icon_pack: fab
-  link:  # github account in format https://github.com/github_name
+  link:  cfiot073@uottawa.ca # email here
 superuser: false
 title: Capucine Fiot # your name
 user_groups:
 - Honours students
 ---
 
-Something interesting about me
+I am very excited to be part of the MAD lab and being able to work on long-term data collected on yellow-bellied marmots as part of my undergrad. For my honour's theses I am investigating the effect of kin group size on individual fitness of yellow-bellied marmots.
