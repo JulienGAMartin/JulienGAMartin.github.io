@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svenja B. Kroeger | The MAD lab</title>
+    <link>/author/svenja-b.-kroeger/</link>
+      <atom:link href="/author/svenja-b.-kroeger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Svenja B. Kroeger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/author/svenja-b.-kroeger/avatar_hu7e36927f3348f96ec07613524b94c02f_168444_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Svenja B. Kroeger</title>
+      <link>/author/svenja-b.-kroeger/</link>
+    </image>
+    
+  </channel>
+</rss>

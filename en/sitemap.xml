@@ -641,30 +641,16 @@
   </url>
   
   <url>
-    <loc>/author/svenja-kroeger/</loc>
+    <loc>/author/svenja-b.-kroeger/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/svenja-kroeger/"
+                href="/fr/author/svenja-b.-kroeger/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/svenja-kroeger/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/your-name/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/your-name/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/your-name/"
+                href="/author/svenja-b.-kroeger/"
                 />
   </url>
   
