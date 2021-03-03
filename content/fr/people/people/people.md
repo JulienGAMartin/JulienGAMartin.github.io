@@ -1,11 +1,11 @@
 ---
 content:
   user_groups:
-  - Principal Investigator
+  - Prof
   - Postdocs
-  - PhD students
-  - MSc students
-  - Honours students
+  - Étudiants PhD
+  - Étudiants MSc
+  - Étudiants Honours
 #  - Visitors
 #  - Alumni PhD
 #  - Alumni MSc
@@ -16,7 +16,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
+title: L'équipe
 weight: 20
 widget: people
 ---

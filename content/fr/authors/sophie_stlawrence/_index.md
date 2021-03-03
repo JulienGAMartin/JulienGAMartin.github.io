@@ -36,6 +36,7 @@ superuser: false
 title: Sophie St. Lawrence
 user_groups:
 - MSc students
+- Étudiants MSc
 ---
 ​
 I am interested in how climate change, specifically increasing mean spring temperatures, is impacting the evolution of and change in the timing of reproduction and its plasticity in yellow-bellied marmots. I will be conducting this study using a long-term dataset on yellow-bellied marmots colected at the Rocky Mountain Biological Laboratory (RMBL), Colorado, USA.

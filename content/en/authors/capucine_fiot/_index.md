@@ -24,6 +24,7 @@ superuser: false
 title: Capucine Fiot # your name
 user_groups:
 - Honours students
+- Étudiants Honours
 ---
 
 I am very excited to be part of the MAD lab and being able to work on long-term data collected on yellow-bellied marmots as part of my undergrad. For my honour's theses I am investigating the effect of kin group size on individual fitness of yellow-bellied marmots.

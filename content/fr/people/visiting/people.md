@@ -1,14 +1,14 @@
 ---
 content:
   user_groups:
-  - Visitors
+  - Visiteurs
 design:
   show_interests: false
   show_role: true
   show_social: true
 headless: true
 subtitle: null
-title: Current and former *glorious* visitors to the lab
+title: Visiteurs
 weight: 20
 widget: people
 ---

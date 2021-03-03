@@ -28,6 +28,7 @@ superuser: false
 title: Bennett Krasnay
 user_groups:
 - Honours students
+- Étudiants Honours
 ---
 
 I am using a quantitative genetic method to evaluate heritability of longevity within and between sexes in Yellow Bellied Marmots. This project features data from a long-term database on marmot life history traits collected at the Rocky Mountain Biological Laboratory in Colorado. I hope to branch out and explore different branches of evolutionary and comparative biology in the future.

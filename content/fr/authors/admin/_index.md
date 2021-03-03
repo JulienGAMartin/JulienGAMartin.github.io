@@ -41,6 +41,7 @@ superuser: true
 title: Julien Martin
 user_groups:
 - Principal Investigator
+- Prof
 ---
 
 I am generally interested in understanding the causes of variation in life history traits in wild populations, with particular on the causes and consequences of within-individual variation in life history. The focus of my research is the evolutionary ecology of reproductive strategies and understanding the impact of environmental variation on adaptation and evolution of traits.
