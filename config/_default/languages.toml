@@ -13,5 +13,5 @@
   contentDir = "content/fr"
   title = "MAD lab"
   [fr.params]
-    description = "Site description in Chinese..."
+    description = "Descritption en français..."
     directions = "Bureau GNN279, au deuxième étage du batiment Gendron"

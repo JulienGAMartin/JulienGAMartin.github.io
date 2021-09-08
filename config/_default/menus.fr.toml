@@ -41,7 +41,7 @@
 
 [[main]]
   name = "Opportunitées"
-  url = "opportunities"
+  url = "opportunities/opp_new"
   weight = 50
 
 [[main]]
@@ -62,7 +62,7 @@
   weight = 2
 
 [[main]]
-  name = "Visiteurs"
+  name = "Collaborateurs & Visiteurs"
   parent = "Personnes"
   url = "people/visiting"
   weight = 3
