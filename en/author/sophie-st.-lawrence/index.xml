@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie St. Lawrence | The MAD lab</title>
+    <link>/en/author/sophie-st.-lawrence/</link>
+      <atom:link href="/en/author/sophie-st.-lawrence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie St. Lawrence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/en/author/sophie-st.-lawrence/avatar_hucbde135c3f642a97e15ed4500fe1bd1b_7258403_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sophie St. Lawrence</title>
+      <link>/en/author/sophie-st.-lawrence/</link>
+    </image>
+    
+  </channel>
+</rss>

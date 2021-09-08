@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Bize | MAD lab</title>
+    <link>/fr/author/pierre-bize/</link>
+      <atom:link href="/fr/author/pierre-bize/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Bize</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-ca</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/fr/author/pierre-bize/avatar_hu243cb919d2428398a59aea8c6f45de2f_42497_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pierre Bize</title>
+      <link>/fr/author/pierre-bize/</link>
+    </image>
+    
+  </channel>
+</rss>

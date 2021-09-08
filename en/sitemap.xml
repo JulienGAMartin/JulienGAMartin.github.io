@@ -3,12 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2021-02-18-grad_position/</loc>
+    <loc>/en/categories/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tag/funding/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tag/funding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/funding/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tag/manatees/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tag/manatees/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/manatees/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tag/marmots/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tag/marmots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/marmots/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/category/news/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/category/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/category/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tag/swifts/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tag/swifts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/swifts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/post/2021-09-10-welcome/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/blog/2021-02-18-grad_position/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2021-02-18-grad_position/</loc>
+    <loc>/en/post/2021-02-18-grad_position/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -18,132 +158,42 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/2021-02-18-grad_position/"
+                href="/en/post/2021-02-18-grad_position/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/en/opportunities/opp_past/2021-02-18-mscmanatee/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="/fr/opportunities/opp_past/2021-02-18-mscmanatee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/opportunities/opp_past/2021-02-18-mscmanatee/"
                 />
   </url>
   
   <url>
-    <loc>/tag/funding/</loc>
+    <loc>/en/opportunities/opp_past/2021-02-18-mscmarmots/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tag/funding/"
+                href="/fr/opportunities/opp_past/2021-02-18-mscmarmots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/funding/"
+                href="/en/opportunities/opp_past/2021-02-18-mscmarmots/"
                 />
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tag/manatees/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/manatees/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/manatees/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tag/marmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/marmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/marmots/"
-                />
-  </url>
-  
-  <url>
-    <loc>/opportunities/2021-02-18-mscmanatee/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/2021-02-18-mscmanatee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/opportunities/2021-02-18-mscmanatee/"
-                />
-  </url>
-  
-  <url>
-    <loc>/opportunities/2021-02-18-mscmarmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/2021-02-18-mscmarmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/opportunities/2021-02-18-mscmarmots/"
-                />
-  </url>
-  
-  <url>
-    <loc>/category/news/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/category/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/category/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/category/opportunities/</loc>
+    <loc>/en/category/opportunities/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -153,47 +203,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/category/opportunities/"
+                href="/en/category/opportunities/"
                 />
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/opportunities/2021-02-18-phdmarmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/2021-02-18-phdmarmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/opportunities/2021-02-18-phdmarmots/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tag/quantitative-genetic/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/quantitative-genetic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/quantitative-genetic/"
-                />
-  </url>
-  
-  <url>
-    <loc>/opportunities/</loc>
+    <loc>/en/opportunities/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -203,57 +218,62 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/opportunities/"
+                href="/en/opportunities/"
                 />
   </url>
   
   <url>
-    <loc>/tag/swifts/</loc>
+    <loc>/en/opportunities/opp_past/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tag/swifts/"
+                href="/fr/opportunities/opp_past/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/swifts/"
+                href="/en/opportunities/opp_past/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/en/blog/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/opportunities/opp_past/2021-02-18-phdmarmots/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/fr/opportunities/opp_past/2021-02-18-phdmarmots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/opportunities/opp_past/2021-02-18-phdmarmots/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/en/tag/quantitative-genetic/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/fr/tag/quantitative-genetic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/tag/quantitative-genetic/"
                 />
   </url>
   
   <url>
-    <loc>/tag/uav/</loc>
+    <loc>/en/tag/uav/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -263,62 +283,62 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/uav/"
+                href="/en/tag/uav/"
                 />
   </url>
   
   <url>
-    <loc>/post-copy/2020-12-01-r-rmarkdown/</loc>
+    <loc>/en/post-copy/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post-copy/</loc>
+    <loc>/en/post-copy/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/plot/</loc>
+    <loc>/en/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/r/</loc>
+    <loc>/en/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/r-markdown/</loc>
+    <loc>/en/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/regression/</loc>
+    <loc>/en/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post-copy/20-12-02-icml-best-paper/</loc>
+    <loc>/en/post-copy/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post-copy/20-12-01-wowchemy-prize/</loc>
+    <loc>/en/post-copy/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>/en/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
+    <loc>/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/en/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -328,12 +348,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>/author/julien-martin/</loc>
+    <loc>/en/author/julien-martin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -343,12 +363,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/julien-martin/"
+                href="/en/author/julien-martin/"
                 />
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -358,52 +378,52 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="/en/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
+    <loc>/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/test_page/</loc>
+    <loc>/en/test_page/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>/en/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
+    <loc>/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
+    <loc>/en/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/admin/</loc>
+    <loc>/en/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -412,12 +432,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/admin/"
+                href="/en/admin/"
                 />
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -426,12 +446,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>/people/alumni/</loc>
+    <loc>/en/people/alumni/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -440,12 +460,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/alumni/"
+                href="/en/people/alumni/"
                 />
   </url>
   
   <url>
-    <loc>/people/people/</loc>
+    <loc>/en/people/people/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -454,12 +474,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/people/"
+                href="/en/people/people/"
                 />
   </url>
   
   <url>
-    <loc>/people/visiting/</loc>
+    <loc>/en/people/visiting/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -468,12 +488,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/visiting/"
+                href="/en/people/visiting/"
                 />
   </url>
   
   <url>
-    <loc>/author/alex-jebb/</loc>
+    <loc>/en/author/alex-jebb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -482,12 +502,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/alex-jebb/"
+                href="/en/author/alex-jebb/"
                 />
   </url>
   
   <url>
-    <loc>/author/bennett-krasnay/</loc>
+    <loc>/en/author/bennett-krasnay/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -496,12 +516,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/bennett-krasnay/"
+                href="/en/author/bennett-krasnay/"
                 />
   </url>
   
   <url>
-    <loc>/author/cammy-beyts/</loc>
+    <loc>/en/author/cammy-beyts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -510,12 +530,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/cammy-beyts/"
+                href="/en/author/cammy-beyts/"
                 />
   </url>
   
   <url>
-    <loc>/author/capucine-fiot/</loc>
+    <loc>/en/author/capucine-fiot/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -524,12 +544,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/capucine-fiot/"
+                href="/en/author/capucine-fiot/"
                 />
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -538,12 +558,54 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/"
+                href="/en/courses/"
                 />
   </url>
   
   <url>
-    <loc>/author/michela-dumas/</loc>
+    <loc>/en/author/dan-blumstein/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/dan-blumstein/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dan-blumstein/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/gabriela-pinho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/gabriela-pinho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gabriela-pinho/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/guillaume-rieucau/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/guillaume-rieucau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/guillaume-rieucau/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/michela-dumas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -552,12 +614,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/michela-dumas/"
+                href="/en/author/michela-dumas/"
                 />
   </url>
   
   <url>
-    <loc>/courses/tutorials/</loc>
+    <loc>/en/courses/tutorials/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -566,12 +628,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/tutorials/"
+                href="/en/courses/tutorials/"
                 />
   </url>
   
   <url>
-    <loc>/courses/uottawa/</loc>
+    <loc>/en/courses/uottawa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -580,12 +642,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/uottawa/"
+                href="/en/courses/uottawa/"
                 />
   </url>
   
   <url>
-    <loc>/people/</loc>
+    <loc>/en/people/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -594,12 +656,26 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/"
+                href="/en/people/"
                 />
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>/en/author/pierre-bize/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/pierre-bize/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/pierre-bize/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -608,12 +684,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/"
+                href="/en/projects/"
                 />
   </url>
   
   <url>
-    <loc>/author/sol-milne/</loc>
+    <loc>/en/author/sol-milne/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -622,12 +698,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/sol-milne/"
+                href="/en/author/sol-milne/"
                 />
   </url>
   
   <url>
-    <loc>/author/sophie-st.-lawrence/</loc>
+    <loc>/en/author/sophie-st.-lawrence/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -636,12 +712,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/sophie-st.-lawrence/"
+                href="/en/author/sophie-st.-lawrence/"
                 />
   </url>
   
   <url>
-    <loc>/author/svenja-b.-kroeger/</loc>
+    <loc>/en/author/svenja-b.-kroeger/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -650,7 +726,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/svenja-b.-kroeger/"
+                href="/en/author/svenja-b.-kroeger/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/opportunities/opp_new/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/opportunities/opp_new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/opportunities/opp_new/"
                 />
   </url>
   

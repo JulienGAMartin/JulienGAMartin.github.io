@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Blumstein | The MAD lab</title>
+    <link>/en/author/dan-blumstein/</link>
+      <atom:link href="/en/author/dan-blumstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Blumstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/en/author/dan-blumstein/avatar_hu179c717e5c43ed4ae49697616f8b0917_66354_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dan Blumstein</title>
+      <link>/en/author/dan-blumstein/</link>
+    </image>
+    
+  </channel>
+</rss>

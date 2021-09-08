@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/2021-02-18-grad_position/"
+                href="/en/post/2021-02-18-grad_position/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,7 +38,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/funding/"
+                href="/en/tag/funding/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,7 +53,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/manatees/"
+                href="/en/tag/manatees/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,7 +83,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/marmots/"
+                href="/en/tag/marmots/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -93,32 +93,42 @@
   </url>
   
   <url>
-    <loc>/fr/opportunities/2021-02-18-mscmanatee/</loc>
+    <loc>/fr/opportunities/opp_new/2021-02-18-mscmanatee/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/opportunities/opp_past/2021-02-18-mscmanatee/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/opportunities/2021-02-18-mscmanatee/"
+                href="/en/opportunities/opp_past/2021-02-18-mscmanatee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/opportunities/2021-02-18-mscmanatee/"
+                href="/fr/opportunities/opp_past/2021-02-18-mscmanatee/"
                 />
   </url>
   
   <url>
-    <loc>/fr/opportunities/2021-02-18-mscmarmots/</loc>
+    <loc>/fr/opportunities/opp_new/2021-02-18-mscmarmots/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/opportunities/opp_past/2021-02-18-mscmarmots/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/opportunities/2021-02-18-mscmarmots/"
+                href="/en/opportunities/opp_past/2021-02-18-mscmarmots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/opportunities/2021-02-18-mscmarmots/"
+                href="/fr/opportunities/opp_past/2021-02-18-mscmarmots/"
                 />
   </url>
   
@@ -128,7 +138,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/category/news/"
+                href="/en/category/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -143,7 +153,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,7 +168,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/category/opportunities/"
+                href="/en/category/opportunities/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -168,42 +178,12 @@
   </url>
   
   <url>
-    <loc>/fr/opportunities/2021-02-18-phdmarmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/opportunities/2021-02-18-phdmarmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/2021-02-18-phdmarmots/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tag/quantitative-genetic/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/quantitative-genetic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/quantitative-genetic/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/opportunities/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/opportunities/"
+                href="/en/opportunities/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,12 +193,77 @@
   </url>
   
   <url>
+    <loc>/fr/opportunities/opp_new/2021-02-18-phdmarmots/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/opportunities/opp_past/2021-02-18-phdmarmots/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/opportunities/opp_past/2021-02-18-phdmarmots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/opportunities/opp_past/2021-02-18-phdmarmots/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tag/quantitative-genetic/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/quantitative-genetic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tag/quantitative-genetic/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/opportunities/opp_new/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/opportunities/opp_new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/opportunities/opp_new/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/opportunities/opp_past/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/opportunities/opp_past/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/opportunities/opp_past/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/tag/swifts/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/swifts/"
+                href="/en/tag/swifts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,7 +278,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -248,7 +293,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/uav/"
+                href="/en/tag/uav/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -262,7 +307,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/admin/"
+                href="/en/admin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -276,7 +321,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -290,7 +335,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/alumni/"
+                href="/en/people/alumni/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -304,7 +349,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/people/"
+                href="/en/people/people/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -318,7 +363,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/visiting/"
+                href="/en/people/visiting/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -332,7 +377,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/alex-jebb/"
+                href="/en/author/alex-jebb/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -346,7 +391,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -360,7 +405,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/bennett-krasnay/"
+                href="/en/author/bennett-krasnay/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -374,7 +419,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/cammy-beyts/"
+                href="/en/author/cammy-beyts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -388,7 +433,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/capucine-fiot/"
+                href="/en/author/capucine-fiot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -402,7 +447,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/"
+                href="/en/courses/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -412,11 +457,53 @@
   </url>
   
   <url>
+    <loc>/fr/author/dan-blumstein/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dan-blumstein/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/dan-blumstein/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/author/gabriela-pinho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/gabriela-pinho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/gabriela-pinho/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/author/guillaume-rieucau/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/guillaume-rieucau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/guillaume-rieucau/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/author/julien-martin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/julien-martin/"
+                href="/en/author/julien-martin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -430,7 +517,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/michela-dumas/"
+                href="/en/author/michela-dumas/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -444,7 +531,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/tutorials/"
+                href="/en/courses/tutorials/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -458,7 +545,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/uottawa/"
+                href="/en/courses/uottawa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -472,7 +559,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/people/"
+                href="/en/people/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -482,11 +569,25 @@
   </url>
   
   <url>
+    <loc>/fr/author/pierre-bize/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/pierre-bize/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/author/pierre-bize/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -500,7 +601,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/"
+                href="/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -514,7 +615,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/sol-milne/"
+                href="/en/author/sol-milne/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -528,7 +629,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/sophie-st.-lawrence/"
+                href="/en/author/sophie-st.-lawrence/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -542,7 +643,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/svenja-b.-kroeger/"
+                href="/en/author/svenja-b.-kroeger/"
                 />
     <xhtml:link
                 rel="alternate"

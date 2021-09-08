@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bennett Krasnay | The MAD lab</title>
+    <link>/en/author/bennett-krasnay/</link>
+      <atom:link href="/en/author/bennett-krasnay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bennett Krasnay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/en/author/bennett-krasnay/avatar_hu974aa5c94356ed84b646bb95169d8acc_60474_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bennett Krasnay</title>
+      <link>/en/author/bennett-krasnay/</link>
+    </image>
+    
+  </channel>
+</rss>

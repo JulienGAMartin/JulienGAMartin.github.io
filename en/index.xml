@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The MAD lab</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>The MAD lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_2.png</url>
+      <title>The MAD lab</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>Welcome new students</title>
+      <link>/en/post/2021-09-10-welcome/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/en/post/2021-09-10-welcome/</guid>
+      <description>
+&lt;script src=&#34;/en/post/2021-09-10-welcome/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Welcome new students in the lab:&lt;/p&gt;
+&lt;p&gt;2 MSc students&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Émilie Gagnon&lt;/li&gt;
+&lt;li&gt;Carol-Ann Chabot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5 honors students&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bernadette Chan&lt;/li&gt;
+&lt;li&gt;Mayra Monir&lt;/li&gt;
+&lt;li&gt;Maryam Musso-Bello&lt;/li&gt;
+&lt;li&gt;Serena Spallin&lt;/li&gt;
+&lt;li&gt;Yasmeen Hichri&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 MSc and 1 PhD available</title>
+      <link>/en/blog/2021-02-18-grad_position/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/en/blog/2021-02-18-grad_position/</guid>
+      <description>
+
+
+&lt;p&gt;I have 3 positions graduate positions available in my lab on evolutionary ecology and behavioural ecology
+of marmots and manatees.
+Please see &lt;a href=&#34;/opportunities&#34;&gt;Opportunities&lt;/a&gt; for more details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 MSc and 1 PhD available</title>
+      <link>/en/post/2021-02-18-grad_position/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/en/post/2021-02-18-grad_position/</guid>
+      <description>
+
+
+&lt;p&gt;I have 3 positions graduate positions available in my lab on evolutionary ecology and behavioural ecology
+of marmots and manatees.
+Please see &lt;a href=&#34;/opportunities&#34;&gt;Opportunities&lt;/a&gt; for more details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc in behavioural ecology</title>
+      <link>/en/opportunities/opp_past/2021-02-18-mscmanatee/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/en/opportunities/opp_past/2021-02-18-mscmanatee/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;project&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Project&lt;/h1&gt;
+&lt;p&gt;Using well known population of manatees along the east coast of Mexico, the project will be looking at the variation in foraging behaviour with reproductive status in manatees using a spatial ecology approach based on aerial imaging. Data collection will be done from the shore using aerial imaging from a small UAV (unmanned aerial vehicle).&lt;/p&gt;
+&lt;p&gt;The project will be supervised by &lt;strong&gt;Julien Martin&lt;/strong&gt; (uOttawa, Canada). The project will be done in collaboration with &lt;strong&gt;Guillaume Rieucau&lt;/strong&gt; (&lt;a href=&#34;https://www.guillaumerieucau.com/&#34;&gt;LUMCON, USA&lt;/a&gt;) and &lt;strong&gt;Nataly Castelblanco-Martínez&lt;/strong&gt; (&lt;a href=&#34;https://finsconservation.org/&#34;&gt;FINS&lt;/a&gt;). The student will be based at the Biology department of the University of Ottawa and will participate to field work in Mexico during the summer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;financial-support&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Financial support&lt;/h1&gt;
+&lt;p&gt;Available for 2 years. The student is expected to complete a minimum of two teaching assistantship per year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;starting-date&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Starting date&lt;/h1&gt;
+&lt;p&gt;Ideally September 2021 or January 2022&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;candidate-profile&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Candidate Profile&lt;/h1&gt;
+&lt;p&gt;The ideal candidate should have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BSc in biology.&lt;/li&gt;
+&lt;li&gt;A strong interest for statistical analyses and R programming.&lt;/li&gt;
+&lt;li&gt;The ability to work alone and in teams.&lt;/li&gt;
+&lt;li&gt;A willingness to work in French and in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-apply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Students that are interested should send by email to Julien Martin (&lt;a href=&#34;mailto:julien.martin@uottawa.ca&#34; class=&#34;email&#34;&gt;julien.martin@uottawa.ca&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a writing sample (thesis, paper or scientific article),&lt;/li&gt;
+&lt;li&gt;a CV, a motivation letter&lt;/li&gt;
+&lt;li&gt;the contact of two references&lt;/li&gt;
+&lt;li&gt;a copy of their transcripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc in evolutionary ecology</title>
+      <link>/en/opportunities/opp_past/2021-02-18-mscmarmots/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/en/opportunities/opp_past/2021-02-18-mscmarmots/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;project&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Project&lt;/h1&gt;
+&lt;p&gt;Life-histories strategies are strongly influenced by environmental conditions and age. To understand the how animals adapt and evolve in natural conditions, it is key to understand how life-history trade-offs vary throughout the life of individuals. The main aim of the project will be to investigate variation in life-history trade-offs with environment age and/or sexes variation using the yellow-bellied marmot long-term study (&amp;gt; 50 years). The richness of the study system will allow the student to further define the project at the beginning of the project.&lt;/p&gt;
+&lt;p&gt;The project will be supervised by Pr. Julien Martin (uOttawa). The project will be done in collaboration with Pr. Dan Blumstein (UCLA, USA) and the Rocky Mountain Biological Laboratory, RMBL, USA. The student will be based at the Biology department of the University of Ottawa and will participate to field work in Colorado at RMBL during the summer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;financial-support&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Financial support&lt;/h1&gt;
+&lt;p&gt;Available for 2 years. The student is expected to complete a minimum of two teaching assistantship per year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;starting-date&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Starting date&lt;/h1&gt;
+&lt;p&gt;Ideally September 2021 or January 2022&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;candidate-profile&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Candidate Profile&lt;/h1&gt;
+&lt;p&gt;The ideal candidate should have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BSc in biology.&lt;/li&gt;
+&lt;li&gt;A strong interest for statistical analyses and R programming.&lt;/li&gt;
+&lt;li&gt;The ability to work alone and in teams.&lt;/li&gt;
+&lt;li&gt;A willingness to work in French and in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-apply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Students that are interested should send by email to Julien Martin (&lt;a href=&#34;mailto:julien.martin@uottawa.ca&#34; class=&#34;email&#34;&gt;julien.martin@uottawa.ca&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a writing sample (thesis, paper or scientific article),&lt;/li&gt;
+&lt;li&gt;a CV, a motivation letter&lt;/li&gt;
+&lt;li&gt;the contact of two references&lt;/li&gt;
+&lt;li&gt;a copy of their transcripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phd in evolutionary ecology</title>
+      <link>/en/opportunities/opp_past/2021-02-18-phdmarmots/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/en/opportunities/opp_past/2021-02-18-phdmarmots/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;project&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Project&lt;/h1&gt;
+&lt;p&gt;Most model of evolution consider that intra-individual variance, once corrected for environmental variation, is essentially random noise and is similar across individuals. However, recent studies in captivity showed that within-individual variance could in fact have a genetic basis. In addition, several studies on captive animal have shown the evolutionary importance of the genetic variance in individual variation. For examples, animal breeding try to select for milking cows with low daily variation in milk production to facilitate stock prediction and management. So if we start to understand the importance and the interest of the genetic basis of within-individual variation in breeding programs, the evolutionary importance of this genetic component remain relatively unknown in the wild. Consequently, to better understand evolution in the wild it is key to evaluate the existence and quantify the amount of genetic variance in the intra-individual variance of traits and how it correlates with other traits including fitness. Ideally to get a wider understanding of the phenomenon, such study would need to look at multiple type of traits and across multiple species. Since this has rarely been done, to get a better understanding this needs to be evaluated across multiple traits and species. The aim of this project is to used new quantitative genetic models, a statistical approach allowing to estimate the genetic variance in a trait in wild population, to quantify the genetic variation in within-individual variance in multiple traits across at least 5 species using long-term pedigreed natural populations including yellow-bellied marmots, alpine swifts, eastern chipmunks, bighorn sheep and red squirrels. The project will thus be based on over 150 years of field work (combined across all species). This project will offer opportunity to learn a variety of important methods in evolutionary biology and to participate in the field work on the marmot system. The student will be given a thorough training in field skills and in statistical modelling to tease apart the amount of trait variance explained by genetic and environmental effects.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;relevant-publications&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Relevant publications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Prentice PM, Houslay TM, Martin JGA, Wilson AJ. 2020 Genetic variance for behavioural ‘predictability’ of stress response. Journal of Evolutionary Biology 33, 642–652.&lt;/li&gt;
+&lt;li&gt;Martin JGA et al. 2017. Genetic basis of between- and within-individual variance of docility. Journal of Evolutionary Biology, 30(4):796-805.&lt;/li&gt;
+&lt;li&gt;Westneat DF, Wright J, Dingemanse NJ. 2015 The biology hidden inside residual within-individual phenotypic variation. Biological Reviews 90, 729–743.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;affiliation-and-life&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Affiliation and life&lt;/h1&gt;
+&lt;p&gt;The project will be supervised by &lt;strong&gt;Pr. Julien Martin (uOttawa)&lt;/strong&gt;. The project will be done in collaborations with the project leaders of participating long-term studies. The student will be based at the Biology department of the University of Ottawa. He/she will have the opportunity to perform field work over the summer in Colorado on the yellow-bellied marmot long-term study and to visit project leaders in Canada (Ottawa, Montreal, Sherbrooke, Edmonton), United-States (Los-Angeles, Boulder) and United-Kingdom (Aberdeen).&lt;/p&gt;
+&lt;p&gt;Ottawa consistently ranks among the best Canadian cities. You’ll love an easy-going lifestyle that appeals to urban adventurers and nature lovers alike. Enjoy a revitalized city that is bursting with energy. Gigs, festivals, theatre and art are all close by in a walkable downtown core. And, having the 2nd highest concentration of scientists and engineers in North America, you’ll have lots of opportunities to build up your network and kick-start your career.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;financial-support&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Financial support&lt;/h1&gt;
+&lt;p&gt;Financial support is available for 4 years. The student is expected to complete two teaching assistantship per year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;starting-date&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Starting date&lt;/h1&gt;
+&lt;p&gt;Ideally September 2021 or January 2022&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;candidate-profile&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Candidate Profile&lt;/h1&gt;
+&lt;p&gt;For this PhD project our ideal candidate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;has a MSc in biology&lt;/li&gt;
+&lt;li&gt;is creative, highly motivated and can work alone or in teams&lt;/li&gt;
+&lt;li&gt;has strong interest in evolutionary biology and quantitative genetics&lt;/li&gt;
+&lt;li&gt;has strong interest for statistical analyses and past experience with R programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-apply&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Students that are interested should send by email to Julien Martin (&lt;a href=&#34;mailto:julien.martin@uottawa.ca&#34; class=&#34;email&#34;&gt;julien.martin@uottawa.ca&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a writing sample (thesis, paper or scientific article),&lt;/li&gt;
+&lt;li&gt;a CV, a motivation letter&lt;/li&gt;
+&lt;li&gt;the contact of two references&lt;/li&gt;
+&lt;li&gt;a copy of their transcripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;YBmarmot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/en/post-copy/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>/en/post-copy/2020-12-01-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/en/post-copy/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>/en/post-copy/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/en/post-copy/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>/en/post-copy/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/en/post-copy/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/en/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>/en/test_page/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/en/test_page/</guid>
+      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/en/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/en/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/en/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/people/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/people/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/people/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/people/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/people/visiting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/people/visiting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
