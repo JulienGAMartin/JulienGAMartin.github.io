@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernadette Chan | The MAD lab</title>
+    <link>/en/author/bernadette-chan/</link>
+      <atom:link href="/en/author/bernadette-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernadette Chan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/en/author/bernadette-chan/avatar_hu7461746eb97f36099573d088fcd2a0c3_121821_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bernadette Chan</title>
+      <link>/en/author/bernadette-chan/</link>
+    </image>
+    
+  </channel>
+</rss>

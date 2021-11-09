@@ -418,44 +418,14 @@
   
   <url>
     <loc>/fr/author/dan-blumstein/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dan-blumstein/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/dan-blumstein/"
-                />
   </url>
   
   <url>
     <loc>/fr/author/gabriela-pinho/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/gabriela-pinho/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/gabriela-pinho/"
-                />
   </url>
   
   <url>
     <loc>/fr/author/guillaume-rieucau/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/guillaume-rieucau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/guillaume-rieucau/"
-                />
   </url>
   
   <url>
@@ -520,16 +490,6 @@
   
   <url>
     <loc>/fr/author/pierre-bize/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/pierre-bize/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/pierre-bize/"
-                />
   </url>
   
   <url>

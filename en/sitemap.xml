@@ -501,11 +501,19 @@
   </url>
   
   <url>
+    <loc>/en/author/bernadette-chan/</loc>
+  </url>
+  
+  <url>
     <loc>/en/author/cammy-beyts/</loc>
   </url>
   
   <url>
     <loc>/en/author/capucine-fiot/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/carol-ann-chabot/</loc>
   </url>
   
   <url>
@@ -527,60 +535,6 @@
   </url>
   
   <url>
-    <loc>/en/author/dan-blumstein/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/dan-blumstein/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dan-blumstein/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/gabriela-pinho/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/gabriela-pinho/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/gabriela-pinho/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/gabriela-pinho/</loc>
-  </url>
-  
-  <url>
-    <loc>/en/author/guillaume-rieucau/</loc>
-  </url>
-  
-  <url>
-    <loc>/en/author/guillaume-rieucau/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/guillaume-rieucau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/guillaume-rieucau/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/michela-dumas/</loc>
-  </url>
-  
-  <url>
     <loc>/en/courses/tutorials/</loc>
     <xhtml:link
                 rel="alternate"
@@ -592,6 +546,26 @@
                 hreflang="en"
                 href="/en/courses/tutorials/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/author/gabriela-pinho/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/giulia-masoero/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/guillaume-rieucau/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/megan-edic/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/michela-dumas/</loc>
   </url>
   
   <url>
@@ -627,20 +601,6 @@
   </url>
   
   <url>
-    <loc>/en/author/pierre-bize/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/pierre-bize/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/pierre-bize/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -652,6 +612,10 @@
                 hreflang="en"
                 href="/en/projects/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/author/serena-spallin/</loc>
   </url>
   
   <url>
@@ -678,6 +642,14 @@
                 hreflang="en"
                 href="/en/opportunities/opp_new/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/author/yasmeen-hichri/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/emilie-gagnon/</loc>
   </url>
   
 </urlset>

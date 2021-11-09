@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serena Spallin | The MAD lab</title>
+    <link>/en/author/serena-spallin/</link>
+      <atom:link href="/en/author/serena-spallin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serena Spallin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/en/author/serena-spallin/avatar_hu7461746eb97f36099573d088fcd2a0c3_121821_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Serena Spallin</title>
+      <link>/en/author/serena-spallin/</link>
+    </image>
+    
+  </channel>
+</rss>
