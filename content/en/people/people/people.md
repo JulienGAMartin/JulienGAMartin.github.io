@@ -1,7 +1,7 @@
 ---
 content:
   user_groups:
-  - Principal Investigator
+  - PI
   - Postdocs
   - PhD students
   - MSc students
