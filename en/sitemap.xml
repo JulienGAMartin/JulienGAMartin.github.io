@@ -494,58 +494,18 @@
   
   <url>
     <loc>/en/author/alex-jebb/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/alex-jebb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/alex-jebb/"
-                />
   </url>
   
   <url>
     <loc>/en/author/bennett-krasnay/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/bennett-krasnay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/bennett-krasnay/"
-                />
   </url>
   
   <url>
     <loc>/en/author/cammy-beyts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/cammy-beyts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/cammy-beyts/"
-                />
   </url>
   
   <url>
     <loc>/en/author/capucine-fiot/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/capucine-fiot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/capucine-fiot/"
-                />
   </url>
   
   <url>
@@ -560,6 +520,10 @@
                 hreflang="en"
                 href="/en/courses/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/author/dan-blumstein/</loc>
   </url>
   
   <url>
@@ -591,6 +555,14 @@
   </url>
   
   <url>
+    <loc>/en/author/gabriela-pinho/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/guillaume-rieucau/</loc>
+  </url>
+  
+  <url>
     <loc>/en/author/guillaume-rieucau/</loc>
     <xhtml:link
                 rel="alternate"
@@ -606,16 +578,6 @@
   
   <url>
     <loc>/en/author/michela-dumas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/michela-dumas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/michela-dumas/"
-                />
   </url>
   
   <url>
@@ -662,6 +624,10 @@
   
   <url>
     <loc>/en/author/pierre-bize/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/pierre-bize/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -690,44 +656,14 @@
   
   <url>
     <loc>/en/author/sol-milne/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/sol-milne/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/sol-milne/"
-                />
   </url>
   
   <url>
     <loc>/en/author/sophie-st.-lawrence/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/sophie-st.-lawrence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/sophie-st.-lawrence/"
-                />
   </url>
   
   <url>
     <loc>/en/author/svenja-b.-kroeger/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/svenja-b.-kroeger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/svenja-b.-kroeger/"
-                />
   </url>
   
   <url>
