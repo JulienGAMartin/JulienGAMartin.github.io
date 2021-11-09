@@ -1,6 +1,6 @@
 ---
-title: Need to be written
-summary: Here we describe how to add a page to your site.
+title: Different potentially useful tutorials
+summary: Home brewed or not.
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -9,8 +9,17 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "bouhou"
-  image: "tamias.jpg"
+  caption: ""
+  image: "judith_header.jpg"
 ---
 
-Add your *content* here...
+## Home made tutorials
+
+- Animal model (based on Wilson et al 2010) https://juliengamartin.github.io/wam_tuto/
+
+
+## List of other tutorials I like 
+
+- Jordan Scott Martin tutorial here (add link)
+- Pierre devillemereuil on QGglmm and MCMCglmm (add link)
+

@@ -40,7 +40,7 @@ social:
 superuser: true
 title: Julien Martin
 user_groups:
-- Principal Investigator
+- PI
 - Prof
 ---
 
