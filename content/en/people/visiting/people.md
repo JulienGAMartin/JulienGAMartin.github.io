@@ -1,6 +1,7 @@
 ---
 content:
   user_groups:
+  - Collaborators
   - Visitors
 design:
   show_interests: false
@@ -8,7 +9,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Current and former *glorious* visitors to the lab
+title: "*Fantastic* collaborators & *glorious* visitors"
 weight: 20
 widget: people
 ---

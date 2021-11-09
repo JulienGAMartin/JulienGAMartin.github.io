@@ -1,0 +1,26 @@
+---
+title: "Welcome new students"
+author: "Julien Martin"
+date: 2021-09-10
+categories: ["News"]
+tags: ["marmots", "funding", "swifts", "manatees"]
+summary: 
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+---
+Welcome new students in the lab:
+
+2 MSc students
+
+- Émilie Gagnon 
+- Carol-Ann Chabot
+
+5 honors students
+
+- Bernadette Chan
+- Mayra Monir
+- Maryam Musso-Bello
+- Serena Spallin
+- Yasmeen Hichri 

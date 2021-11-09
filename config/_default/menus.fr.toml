@@ -62,7 +62,7 @@
   weight = 2
 
 [[main]]
-  name = "Visiteurs"
+  name = "Collaborateurs & Visiteurs"
   parent = "Personnes"
   url = "people/visiting"
   weight = 3

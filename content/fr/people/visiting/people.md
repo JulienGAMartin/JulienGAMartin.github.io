@@ -1,6 +1,7 @@
 ---
 content:
   user_groups:
+  - Collaborateurs
   - Visiteurs
 design:
   show_interests: false
