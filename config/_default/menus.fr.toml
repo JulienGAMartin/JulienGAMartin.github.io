@@ -41,7 +41,7 @@
 
 [[main]]
   name = "Opportunitées"
-  url = "opportunities"
+  url = "opportunities/opp_new"
   weight = 50
 
 [[main]]
