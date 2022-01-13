@@ -15,7 +15,7 @@ role: DNA methylation and hibernation # project title
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link:  # email here
+#  link:  # email in format #mailto:myemail@whahouhou.com
 #- icon: twitter
 #  icon_pack: fab
 #  link:  # twitter account in format #https://twitter.com/account_name

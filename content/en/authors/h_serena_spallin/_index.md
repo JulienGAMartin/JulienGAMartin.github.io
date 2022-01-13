@@ -12,10 +12,10 @@ bio: # leave blank
 #- Animal Behaviour
 #- Evolutionary Ecology
 #- Conservation Biology
-#organizations:
-#- name: University of Ottawa 
+organizations:
+- name: University of Ottawa 
 #  url: "" # your webpage here
-#role: Influence of kin group size on individual reproduction and survival of yellow-bellied marmots.
+role: Project title
 #social:
 #- icon: envelope
 #  icon_pack: fas

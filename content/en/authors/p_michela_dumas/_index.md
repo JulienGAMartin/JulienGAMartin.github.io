@@ -21,7 +21,7 @@ role: Sexual Selection and Mating Strategies in a Bird with Little Apparent Sexu
 social:
 - icon: envelope
   icon_pack: fas
-  link: mduma060@uottawa.ca
+  link: mailto:mduma060@uottawa.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/michela_dumas
