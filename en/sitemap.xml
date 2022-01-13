@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/en/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/post/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -119,21 +134,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url>
   
@@ -558,6 +558,10 @@
   
   <url>
     <loc>/en/author/guillaume-rieucau/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/author/julien-martin/</loc>
   </url>
   
   <url>
