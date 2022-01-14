@@ -3,7 +3,7 @@ advanced:
   css_class: fullscreen
 design:
   background:
-    image: tamias.jpg
+    image: contact.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

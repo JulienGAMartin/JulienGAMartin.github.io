@@ -25,7 +25,7 @@ advanced:
 headless: true
 subtitle: null
 title: null
-weight: 10
+weight: 100
 widget: hero
-hero_media: judith_header.jpg
+hero_media: contact.jpg
 ---
