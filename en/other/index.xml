@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | The MAD lab</title>
+    <link>/en/other/</link>
+      <atom:link href="/en/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/images/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_2.png</url>
+      <title>Others</title>
+      <link>/en/other/</link>
+    </image>
+    
+    <item>
+      <title>Gallery</title>
+      <link>/en/other/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/other/gallery/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+    
+  
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
