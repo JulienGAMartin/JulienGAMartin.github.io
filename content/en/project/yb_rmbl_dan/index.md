@@ -7,5 +7,5 @@ image:
 summary: Long-term research project on yellow-bellied marmots at the Rocky Mountain Biological Laboratory.
 tags:
 - main
-title: Collaboration on Yellow-bellied marmots
+title: Yellow-bellied marmots long-term research with Dan Blumstein
 ---

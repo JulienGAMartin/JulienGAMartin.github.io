@@ -21,6 +21,7 @@ interests:
 - Evolution in natural environment
 - Life-history strategies
 - Rugby
+- Climbing
 - Photgraphy
 - Woodworking
 
@@ -41,18 +42,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+# email
 - icon: envelope
   icon_pack: fas
   link: mailto:julien.martin@uottawa.ca
+# twitter
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JGAMartin
+# google scholar
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=w6axPGHSSWsC&hl=en
+# github
 - icon: github
   icon_pack: fab
   link: https://github.com/JulienGAMartin
+# orcid
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7726-6809
+# osf
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/qvtzm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +84,8 @@ user_groups:
 - PI
 - Prof
 ---
+
+<!-- add a brief description of your research interests and project -->
 
 I am generally interested in understanding the causes of variation in life history traits in wild populations, with particular on the causes and consequences of within-individual variation in life history. The focus of my research is the evolutionary ecology of reproductive strategies and understanding the impact of environmental variation on adaptation and evolution of traits.
 
