@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming opportunities | The M.A.D. lab</title>
+    <link>/opportunities/opp_new/</link>
+      <atom:link href="/opportunities/opp_new/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upcoming opportunities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_3.png</url>
+      <title>Upcoming opportunities</title>
+      <link>/opportunities/opp_new/</link>
+    </image>
+    
+    <item>
+      <title>Sorry</title>
+      <link>/opportunities/opp_new/nope/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/opportunities/opp_new/nope/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /opportunities/opp_new/nope/YBmarmot_huc6967860d66a27c133dd16e6163873e9_73002_e05ba37287b3893dd4b0e95fcef68175.webp 400w,
+               /opportunities/opp_new/nope/YBmarmot_huc6967860d66a27c133dd16e6163873e9_73002_2f2b03407fcc8c73b821626aeba21b7a.webp 760w,
+               /opportunities/opp_new/nope/YBmarmot_huc6967860d66a27c133dd16e6163873e9_73002_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/opportunities/opp_new/nope/YBmarmot_huc6967860d66a27c133dd16e6163873e9_73002_e05ba37287b3893dd4b0e95fcef68175.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

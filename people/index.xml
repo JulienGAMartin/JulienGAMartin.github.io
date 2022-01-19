@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People | The M.A.D. lab</title>
+    <link>/people/</link>
+      <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    <description>People</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/media/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_3.png</url>
+      <title>People</title>
+      <link>/people/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/people/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/visiting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/visiting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

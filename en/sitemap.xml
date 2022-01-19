@@ -1,667 +1,231 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/en/other/gallery/</loc>
-  </url>
   
   <url>
-    <loc>/en/categories/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-  </url>
-  
+    <loc>/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/funding/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/funding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/funding/"
-                />
-  </url>
-  
+    <loc>/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
+    <loc>/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-  </url>
-  
+    <loc>/other/gallery/</loc></url>
   <url>
-    <loc>/en/tag/manatees/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/manatees/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/manatees/"
-                />
-  </url>
-  
+    <loc>/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/"
+    /></url>
   <url>
-    <loc>/en/tag/marmots/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/marmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/marmots/"
-                />
-  </url>
-  
+    <loc>/categories/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/categories/"
+    /></url>
   <url>
-    <loc>/en/category/news/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/category/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/news/"
-                />
-  </url>
-  
+    <loc>/tag/manatees/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/swifts/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/swifts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/swifts/"
-                />
-  </url>
-  
+    <loc>/opportunities/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-  </url>
-  
+    <loc>/category/sad-news/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post/2021-09-10-welcome/</loc>
-    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/opportunities/opp_new/nope/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/blog/2021-02-18-grad_position/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tags/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/tags/"
+    /></url>
   <url>
-    <loc>/en/post/2021-02-18-grad_position/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/2021-02-18-grad_position/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/2021-02-18-grad_position/"
-                />
-  </url>
-  
+    <loc>/tag/uav/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/opportunities/opp_past/2021-02-18-mscmanatee/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/opp_past/2021-02-18-mscmanatee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/opp_past/2021-02-18-mscmanatee/"
-                />
-  </url>
-  
+    <loc>/opportunities/opp_new/</loc><lastmod>2022-01-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/opportunities/opp_past/2021-02-18-mscmarmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/opp_past/2021-02-18-mscmarmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/opp_past/2021-02-18-mscmarmots/"
-                />
-  </url>
-  
+    <loc>/tag/funding/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/category/opportunities/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/category/opportunities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/opportunities/"
-                />
-  </url>
-  
+    <loc>/tag/marmots/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/opportunities/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/"
-                />
-  </url>
-  
+    <loc>/category/news/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/opportunities/opp_past/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/opp_past/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/opp_past/"
-                />
-  </url>
-  
+    <loc>/posts/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/blog/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/swifts/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/opportunities/opp_past/2021-02-18-phdmarmots/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/opp_past/2021-02-18-phdmarmots/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/opp_past/2021-02-18-phdmarmots/"
-                />
-  </url>
-  
+    <loc>/posts/2021-09-10-welcome/</loc><lastmod>2021-09-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/quantitative-genetic/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/quantitative-genetic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/quantitative-genetic/"
-                />
-  </url>
-  
+    <loc>/posts/2021-02-18-grad_position/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/uav/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tag/uav/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/uav/"
-                />
-  </url>
-  
+    <loc>/opportunities/opp_past/2021-02-18-mscmanatee/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post-copy/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/opportunities/opp_past/2021-02-18-mscmarmots/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post-copy/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/category/opportunities/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/opportunities/opp_past/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/opportunities/opp_past/2021-02-18-phdmarmots/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/tag/quantitative-genetic/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post-copy/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/post-copy/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/authors/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/authors/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/authors/"
+    /></url>
   <url>
-    <loc>/en/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-  </url>
-  
+    <loc>/author/julien-martin/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/julien-martin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/julien-martin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/julien-martin/"
-                />
-  </url>
-  
+    <loc>/posts-copy/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-  </url>
-  
+    <loc>/posts-copy/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/test_page/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/posts-copy/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/en/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/en/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/en/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/en/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/en/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/admin/"
-                />
-  </url>
-  
+    <loc>/posts-copy/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/contact/"
-                />
-  </url>
-  
+    <loc>/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/people/alumni/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/people/alumni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/people/alumni/"
-                />
-  </url>
-  
+    <loc>/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/people/people/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/people/people/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/people/people/"
-                />
-  </url>
-  
+    <loc>/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/publication_types/"
+    /></url>
   <url>
-    <loc>/en/people/visiting/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/people/visiting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/people/visiting/"
-                />
-  </url>
-  
+    <loc>/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/alex-jebb/</loc>
-  </url>
-  
+    <loc>/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/bennett-krasnay/</loc>
-  </url>
-  
+    <loc>/posts-copy/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/bernadette-chan/</loc>
-  </url>
-  
+    <loc>/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
-    <loc>/en/author/cammy-beyts/</loc>
-  </url>
-  
+    <loc>/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
-    <loc>/en/author/capucine-fiot/</loc>
-  </url>
-  
+    <loc>/project/yb_rmbl_dan/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/carol-ann-chabot/</loc>
-  </url>
-  
+    <loc>/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/courses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
-                />
-  </url>
-  
+    <loc>/tag/main/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/dan-blumstein/</loc>
-  </url>
-  
+    <loc>/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/courses/tutorials/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/courses/tutorials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/tutorials/"
-                />
-  </url>
-  
+    <loc>/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/gabriela-pinho/</loc>
-  </url>
-  
+    <loc>/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/giulia-masoero/</loc>
-  </url>
-  
+    <loc>/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/guillaume-rieucau/</loc>
-  </url>
-  
+    <loc>/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/julien-martin/</loc>
-  </url>
-  
+    <loc>/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/en/author/megan-edic/</loc>
-  </url>
-  
+    <loc>/admin/</loc></url>
   <url>
-    <loc>/en/author/michela-dumas/</loc>
-  </url>
-  
+    <loc>/contact/</loc><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/contact/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/contact/"
+    /></url>
   <url>
-    <loc>/en/courses/uottawa/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/courses/uottawa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/uottawa/"
-                />
-  </url>
-  
+    <loc>/people/alumni/</loc></url>
   <url>
-    <loc>/en/other/</loc>
-  </url>
-  
+    <loc>/people/people/</loc></url>
   <url>
-    <loc>/en/people/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/people/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/people/"
-                />
-  </url>
-  
+    <loc>/people/visiting/</loc></url>
   <url>
-    <loc>/en/author/pierre-bize/</loc>
-  </url>
-  
+    <loc>/research/</loc></url>
   <url>
-    <loc>/en/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/"
-                />
-  </url>
-  
+    <loc>/author/alex-jebb/</loc></url>
   <url>
-    <loc>/en/author/serena-spallin/</loc>
-  </url>
-  
+    <loc>/author/bennett-krasnay/</loc></url>
   <url>
-    <loc>/en/author/sol-milne/</loc>
-  </url>
-  
+    <loc>/author/bernadette-chan/</loc></url>
   <url>
-    <loc>/en/author/sophie-st.-lawrence/</loc>
-  </url>
-  
+    <loc>/author/cammy-beyts/</loc></url>
   <url>
-    <loc>/en/author/svenja-b.-kroeger/</loc>
-  </url>
-  
+    <loc>/author/capucine-fiot/</loc></url>
   <url>
-    <loc>/en/opportunities/opp_new/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/opportunities/opp_new/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/opportunities/opp_new/"
-                />
-  </url>
-  
+    <loc>/author/carol-ann-chabot/</loc></url>
   <url>
-    <loc>/en/author/yasmeen-hichri/</loc>
-  </url>
-  
+    <loc>/author/dan-blumstein/</loc></url>
   <url>
-    <loc>/en/author/emilie-gagnon/</loc>
-  </url>
-  
-</urlset>
+    <loc>/courses/tutorials/</loc></url>
+  <url>
+    <loc>/author/gabriela-pinho/</loc></url>
+  <url>
+    <loc>/author/giulia-masoero/</loc></url>
+  <url>
+    <loc>/author/guillaume-rieucau/</loc></url>
+  <url>
+    <loc>/author/megan-edic/</loc></url>
+  <url>
+    <loc>/author/michela-dumas/</loc></url>
+  <url>
+    <loc>/courses/uottawa/</loc></url>
+  <url>
+    <loc>/other/</loc></url>
+  <url>
+    <loc>/people/</loc></url>
+  <url>
+    <loc>/author/pierre-bize/</loc></url>
+  <url>
+    <loc>/author/serena-spallin/</loc></url>
+  <url>
+    <loc>/author/sol-milne/</loc></url>
+  <url>
+    <loc>/author/sophie-st.-lawrence/</loc></url>
+  <url>
+    <loc>/author/svenja-b.-kroeger/</loc></url>
+  <url>
+    <loc>/author/yasmeen-hichri/</loc></url>
+  <url>
+    <loc>/author/emilie-gagnon/</loc></url></urlset>
