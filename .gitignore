@@ -6,3 +6,4 @@ public/
 docs-old/
 docs-local/
 *.code-workspace
+.hugo_build.lock
