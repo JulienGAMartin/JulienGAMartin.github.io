@@ -84,85 +84,17 @@
   <url>
     <loc>/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>/project/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/authors/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="/fr/authors/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/authors/"
-    /></url>
-  <url>
-    <loc>/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/author/julien-martin/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/posts-copy/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/posts-copy/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/posts-copy/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/posts-copy/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="/fr/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/publication_types/"
-    /></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/posts-copy/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
+    <loc>/project/old_page/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
     <loc>/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
-    <loc>/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+    <loc>/tag/main/</loc><lastmod>1962-04-17T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/main/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/project/yb_rmbl_dan/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
+    <loc>/project/yb_rmbl_dan/</loc><lastmod>1962-04-17T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/admin/</loc></url>
   <url>
@@ -186,6 +118,16 @@
   <url>
     <loc>/author/alex-jebb/</loc></url>
   <url>
+    <loc>/authors/</loc><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/authors/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/authors/"
+    /></url>
+  <url>
     <loc>/author/bennett-krasnay/</loc></url>
   <url>
     <loc>/author/bernadette-chan/</loc></url>
@@ -206,6 +148,8 @@
   <url>
     <loc>/author/guillaume-rieucau/</loc></url>
   <url>
+    <loc>/author/julien-martin/</loc></url>
+  <url>
     <loc>/author/megan-edic/</loc></url>
   <url>
     <loc>/author/michela-dumas/</loc></url>
@@ -217,6 +161,16 @@
     <loc>/people/</loc></url>
   <url>
     <loc>/author/pierre-bize/</loc></url>
+  <url>
+    <loc>/publication_types/</loc><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="/fr/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/publication_types/"
+    /></url>
   <url>
     <loc>/author/serena-spallin/</loc></url>
   <url>

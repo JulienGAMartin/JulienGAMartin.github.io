@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,22 +13,48 @@
     </image>
     
     <item>
-      <title>Long-term data</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Research projects</title>
+      <link>/project/old_page/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/old_page/</guid>
+      <description>&lt;h1 id=&#34;main-projects&#34;&gt;Main projects&lt;/h1&gt;
+&lt;h3 id=&#34;senescence-in-yellow-bellied-marmots&#34;&gt;Senescence in yellow-bellied marmots&lt;/h3&gt;
+&lt;p&gt;The focus of this project is to teae apart age-dependent and age-independent effects of senescence and determine their interactions with environmental conditions.&lt;/p&gt;
+&lt;h3 id=&#34;evolution-and-environmental-change-in-yellow-bellied-marmots&#34;&gt;Evolution and environmental change in yellow bellied marmots&lt;/h3&gt;
+&lt;p&gt;am interested in the impact of climate changes on the  evolution of traits of yellow-bellied marmots. More specifically I will use a quantitative genetic approach to study changes in traits &amp;amp; distribution and variance due to changes in the environment&lt;/p&gt;
+&lt;h1 id=&#34;research-methods&#34;&gt;Research methods&lt;/h1&gt;
+&lt;h3 id=&#34;long-term-monitoring&#34;&gt;Long-term monitoring&lt;/h3&gt;
+&lt;p&gt;Long-term studies are the best way to track changes in the environment and quantify their consequences for population dynamics and fitness consequences of quantitative phenotypic traits, two key components of understanding the impacts of climate change. Although I highly value this approach to study ecological and evolutionary questions, it provides results that are correlative and not causative as one could obtain with an experiment. On the other hand, experimentation on life-history trade-offs or selection in the wild are nearly impossible when studying long-lived animals.&lt;/p&gt;
+&lt;h3 id=&#34;unmanned-aerial-vehicles-uavs&#34;&gt;Unmanned Aerial Vehicles (UAVs)&lt;/h3&gt;
+&lt;p&gt;UAVs offer the ability to collect new data non-invasively, and quite rapidly over a small to medium scale of the environment. I am mainly using aerial mappinig type of data to estiamte habitat quality and size, identity animals at the individual level and precisely map them. If a flight could fairly be quick, the post-processing of the data collected could be gigantic.&lt;/p&gt;
+&lt;h3 id=&#34;statistics&#34;&gt;Statistics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;mixed model&lt;/li&gt;
+&lt;li&gt;animal model&lt;/li&gt;
+&lt;li&gt;random regression&lt;/li&gt;
+&lt;li&gt;double hierarchical model&lt;/li&gt;
+&lt;li&gt;path analysis&lt;/li&gt;
+&lt;li&gt;social network analysis&lt;/li&gt;
+&lt;li&gt;geostatistical analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;past-projects&#34;&gt;Past projects&lt;/h1&gt;
+&lt;h3 id=&#34;orangutan-nest-watch&#34;&gt;Orangutan Nest Watch&lt;/h3&gt;
+&lt;p&gt;We fly drones over an area of Forest in Sabah, Malaysian Borneo in order to find out how orangutans are affected by human impacts on their environment. Orangutans are Critically Endangered and it is vital to protect their remaining habitat. However we do not yet know at what population densities they live, so we need to search through each individual photo to see if we can find their nests and their vital food source- strangler fig trees. The more we know about the habitat orangutans can survive in, the more we can build to protect suitable areas of forest where they can live into the future, and reduce the threat of local extinction. Find out more at &lt;a href=&#34;https://www.journecology.com/orangutan-nest-survey&#34;&gt; project site &lt;/a&gt; but more importantly volunteer and help us by participating on the &lt;a href=&#34;https://www.zooniverse.org/projects/sol-dot-milne/orangutan-nest-watch&#34;&gt;Zooniverse project&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;h3 id=&#34;spatial-and-social-structure-at-harbour-seal-haul-out-sites-using-unmanned-aerial-vehicles-uavs&#34;&gt;Spatial and social structure at harbour seal haul-out sites using Unmanned Aerial Vehicles (UAVs)&lt;/h3&gt;
+&lt;p&gt;I am interested in the social structure and spatial distribution of seals at haul out sites. Due to heavy logistics, simple data such as individual body condition, distance between neighbours and identity of neighbour are rarely known in seal studies. Using UAVs, I am able to measure, identity and map precisely seals hauling out. I am looking at stabilty of social structure throughout the seasons and years, as well as habitat selection at small scale for haul out site.&lt;/p&gt;
+&lt;h3 id=&#34;personality-in-long-lived-fulmars-and-its-impact-on-foraging-strategies-and-reproduction&#34;&gt;Personality in long-lived fulmars and its impact on foraging strategies and reproduction&lt;/h3&gt;
+&lt;p&gt;Using a long-term study of fulmars at Eynhallow, Orkney Islands, UK, I am looking at the between individual variation in docility and agressiveness and their consequences on reproductive output.&lt;/p&gt;
+&lt;h3 id=&#34;reproductive-strategies-of-bighorn-ewes&#34;&gt;Reproductive strategies of Bighorn ewes&lt;/h3&gt;
+&lt;p&gt;For my PhD, I worked on reproductive strategies of bighorn sheep females with Pr. &lt;a href=&#34;http://pages.usherbrooke.ca/mfesta/marco.htm&#34;&gt;Marco Festa-Bianchet&lt;/a&gt;. I was interested in how adult females allocate energy to reproduction or to survival under different conditions.  In few words, bighorn females always favor their own body condition and survival over the ones of their lambs.&lt;/p&gt;
+&lt;h3 id=&#34;personality-in-wild-eastern-chipmunk&#34;&gt;Personality in wild eastern chipmunk&lt;/h3&gt;
+&lt;p&gt;I have done my M.Sc on personality in wild chipmunks under the supervision of Pr. &lt;a href=&#34;http://www.unites.uqam.ca/crcec/indexEnglish.htm&#34;&gt;Denis Réale&lt;/a&gt;. My main interest was to establish if individuals differed in their behaviour in a stressful situation and how these differences were related to hormones and human disturbance&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yellow-bellied marmots long-term research with Dan Blumstein</title>
       <link>/project/yb_rmbl_dan/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Apr 1962 00:00:00 +0000</pubDate>
       <guid>/project/yb_rmbl_dan/</guid>
       <description></description>
     </item>
