@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "1962-04-17"
 external_link: https://sites.lifesci.ucla.edu/eeb-rmbl-marmots/
 image:
   caption: Photo by Julien Martin
