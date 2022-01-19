@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Recherche en Écologie évolutive"
-subtitle: "M.A.D lab"
-hero_media: YBmarmot.jpg
+title: "Recherche en Écologie Évolutive"
+subtitle: "Le M.A.D lab"
+hero_media: MADlabLogoFull.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-**Traduction en cours désolé**
+Désolé, site en cours de construction/Traduction

@@ -26,13 +26,13 @@ publication_short: In *STC*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
-slides: null
+slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
 title: An example conference paper
-url_code: '#'
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_poster: '#'
@@ -46,4 +46,8 @@ url_video: '#'
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

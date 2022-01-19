@@ -11,7 +11,7 @@ design:
   columns: "1"
 headless: true
 subtitle: null
-title: Contact
+title: Pr Julien Martin
 weight: 30
 widget: contact
 ---

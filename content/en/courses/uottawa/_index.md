@@ -11,6 +11,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: "tamias.jpg"
+  image_size: contain
 ---
 
 Add your *content* here...

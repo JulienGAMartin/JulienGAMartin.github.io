@@ -1,3 +1,3 @@
 # Personal website
-WEbsite for my research group developped using blogdown, Hugo and wowchemy theme
+Website for my research group developped using blogdown, Hugo and wowchemy theme
 [Julien martin's website](https://juliengamartin.github.io)
