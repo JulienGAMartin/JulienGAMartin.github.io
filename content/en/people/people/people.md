@@ -1,15 +1,16 @@
 ---
 content:
   user_groups:
-  - PI
-  - Postdocs
-  - PhD students
-  - MSc students
-  - Honours students
-#  - Visitors
-#  - Alumni PhD
-#  - Alumni MSc
-#  - Alumni Honours
+#    - Current lab members
+    - PI
+    - Postdocs
+    - PhD students
+    - MSc students
+    - Honours students
+#    - Visitors
+#    - Alumni PhD
+#    - Alumni MSc
+#    - Alumni Honours
 design:
   show_interests: false
   show_role: true

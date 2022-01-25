@@ -83,6 +83,7 @@ highlight_name: false
 user_groups:
 - PI
 - Prof
+- Current lab members
 ---
 
 <!-- add a brief description of your research interests and project -->

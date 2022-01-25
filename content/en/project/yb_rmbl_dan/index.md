@@ -8,4 +8,5 @@ summary: Long-term research project on yellow-bellied marmots at the Rocky Mount
 tags:
 - main
 title: Yellow-bellied marmots long-term research with Dan Blumstein
+show_date: false
 ---

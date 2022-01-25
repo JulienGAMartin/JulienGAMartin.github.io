@@ -1,5 +1,6 @@
 ---
 date: "2019-07-01"
+show_date: false
 external_link: ""
 author: ""
 image: 
