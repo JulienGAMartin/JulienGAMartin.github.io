@@ -17,7 +17,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
+title: 
 weight: 20
 widget: people
 ---
