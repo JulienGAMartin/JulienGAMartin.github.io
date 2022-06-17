@@ -4,6 +4,9 @@ authors:
 bio: 
 education:
   courses:
+  - course: PhD. in Biology
+    institution: University of Ottawa
+    year: 2020 - present
   - course: Master in Ethology
     institution: Université Sorbonne Paris Nord
     year: 2020
@@ -39,3 +42,5 @@ user_groups:
 ---
 
 Michela uses a quantitative genetic approach to investigate how sexual selection operates within and between the sexes in a species with little apparent sexual dimorphism, the Alpine Swift (Tachymarptis melba). Specifically, she seeks to identify which ornamental traits are under sexual selection and if those traits have similar signalling values in both sexes, as well as the direct and indirect fitness benefits of mating strategies such as divorce. Michela looks forward to hiking in the Swiss Alps following next summer’s field work season to collect her data. 
+
+During her PhD, Michela is co-supervised by Pierre Bize and Julien Martin.

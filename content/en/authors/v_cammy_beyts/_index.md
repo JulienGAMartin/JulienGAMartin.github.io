@@ -31,4 +31,4 @@ user_groups:
 - Visiteurs
 ---
 ​
-Cammy Beyts is a PhD student from the University of Edinburgh visiting the Martin lab *virtually* from March to June 2021.  Cammy is interested in environmental and genetic factors which influence inter-individual variation in amphibian behaviour.  During her time at the Martin lab, she will be using double hierarchical models to explore how the restriction and availability of food impacts individual variation in Xenopus laevis tadpole behaviour.
+Cammy Beyts is a PhD student from the University of Edinburgh visiting the MAD lab *virtually* from March to June 2021.  Cammy is interested in environmental and genetic factors which influence inter-individual variation in amphibian behaviour.  During her time at the Martin lab, she will be using double hierarchical models to explore how the restriction and availability of food impacts individual variation in Xenopus laevis tadpole behaviour.

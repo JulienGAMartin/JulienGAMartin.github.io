@@ -6,18 +6,12 @@ education: # please fill in use "" for empty
   courses:
   - course: PhD. in Biology
     institution: University of Ottawa
-    year: 2017 - present
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+    year: 2017 - 2022
 email: "" # email here
-interests: # can add more if you want
-- keyword 1
-- keyword 2
-- keyword 3
+#interests: # can add more if you want
+#- keyword 1
+#- keyword 2
+#- keyword 3
 organizations:
 - name: University of Aberdeen 
   url: "" # your webpage here
@@ -38,8 +32,10 @@ social:
 superuser: false
 title: Alex Jebb # your name
 user_groups:
-- PhD students
-- Étudiants PhD
+- Alumni PhD
+- Anciens PhD
 ---
 
 Alex is interested in the effects of early-life or maternal environment on the life histories of individuals within a species. She is will be researching this by comparing and contrasting different hypotheses, such as the Silver Spoon Hypothesis and Predictive Adaptive Response Hypothesis, within a long-term study population of Yellow-bellied Marmots in Colorado, U.S.
+
+During her PhD, Alex was co-supervised by Pierre Bize and Julien Martin.

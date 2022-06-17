@@ -2,8 +2,11 @@
 authors:
 - Thibaut Barra
 bio: 
-#education:
-#  courses:
+education:
+  courses:
+  - course: PhD. in Biology
+    institution: University of Ottawa
+    year: 2022 - present
 #  - course: Master in Ethology
 #    institution: Université Sorbonne Paris Nord
 #    year: 2020
