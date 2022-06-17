@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emil Isaksson | The M.A.D. lab</title>
+    <link>/author/emil-isaksson/</link>
+      <atom:link href="/author/emil-isaksson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emil Isaksson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/author/emil-isaksson/avatar_hu467ba3b10d20c4d23c498fe247c62961_681951_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Emil Isaksson</title>
+      <link>/author/emil-isaksson/</link>
+    </image>
+    
+  </channel>
+</rss>
