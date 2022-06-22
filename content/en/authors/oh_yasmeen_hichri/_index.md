@@ -1,6 +1,6 @@
 ---
 authors:
-- Bernadette Chan # your name
+- Yasmeen Hichri # your name
 bio: # leave blank
 #education: # please fill in use "" for empty
 #  courses:
@@ -15,15 +15,15 @@ bio: # leave blank
 #organizations:
 #- name: University of Ottawa 
 #  url: "" # your webpage here
-#role: Influence of kin group size on individual reproduction and survival of yellow-bellied marmots.
+role: Sexual Dimorphism in the Alpine Swift
 #social:
 #- icon: envelope
 #  icon_pack: fas
 #  link:  cfiot073@uottawa.ca # email here
 superuser: false
-title: Bernadette Chan # your name
+title: Yasmeen Hichri # your name
 user_groups:
-- Honours students
+- Alumni Honours
 
 ---
 
