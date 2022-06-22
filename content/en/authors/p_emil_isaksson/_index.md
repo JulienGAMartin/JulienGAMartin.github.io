@@ -40,3 +40,5 @@ user_groups:
 ---
 
 Emil is interested in the relation between challenging environmental conditions (e.g. cold winters) and the use of social learning. He uses geographical and temporal environmental gradients to investigate the so called 'harsh environment' hypothesis which states that environments with uncertain food supply should favour cognitive abilities that help mitigate the environmental uncertainty. To study this, Emil has worked with great tits (Parus major) in France and is currently working with black-capped chickadees (Poecile atricapillus). He is co-supervised by Dr. Roslyn Dakin at Carleton University.
+
+In 2019, Emil started his PhD under Pr Julie Morrand-Ferron supervision with Roslyn Dakin and Julien Martins simply being on Emil's thesis advisory committee. Following the tragic lost of Julie in February 2022, Roslyn and Julien became Emil's co-supervisor.

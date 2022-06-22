@@ -14,10 +14,10 @@ education: # please fill in use "" for empty
     institution: 
     year: 
 email: "" # email here
-interests: # can add more if you want
-- keyword 1
-- keyword 2
-- keyword 3
+# interests: # can add more if you want
+# - keyword 1
+# - keyword 2
+# - keyword 3
 organizations:
 - name: University of Aberdeen 
   url: "" # your webpage here
