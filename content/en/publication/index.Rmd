@@ -1,0 +1,79 @@
+---
+title: Publications
+
+date: "2022-03-15T00:00:00Z"
+
+output: 
+  html_document:
+    keep_md: yes
+---
+
+_Pulled automatically from Julien Martin's <a href="https://scholar.google.com/citations?user=w6axPGHSSWsC&hl">Google Scholar profile</a>._
+
+```{r, include = FALSE}
+library(scholar)
+library(tidyverse)
+library(glue)
+
+# escape some special chars, german umlauts, ...
+char2html <- function(x) {
+  dictionary <- data.frame(
+    symbol = c("ä", "ö", "ü", "Ä", "Ö", "Ü", "ß"),
+    html = c(
+      "&auml;", "&ouml;", "&uuml;", "&Auml;",
+      "&Ouml;", "&Uuml;", "&szlig;"
+    )
+  )
+  for (i in 1:dim(dictionary)[1]) {
+    x <- gsub(dictionary$symbol[i], dictionary$html[i], x)
+  }
+  x
+}
+
+# my google scholar user id from my profile url
+# https://scholar.google.com/citations?user=w6axPGHSSWsC&hl=en
+giumas <- "w6axPGHSSWsC&hl"
+
+# pull from google
+html_1 <- get_publications(giumas)
+
+# convert to htlm table - the ugly way ;)
+html_2 <- html_1 %>%
+  as_tibble() %>%
+  arrange(desc(year)) %>%
+  mutate(
+    # author=str_replace_all(author, " (\\S) ", "\\1 "),
+    author = str_replace_all(author, "([A-Z]) ([A-Z]) ", "\\1\\2 "),
+    author = str_replace_all(author, ", \\.\\.\\.", " et al."),
+    author = str_replace_all(author, "JGA Martin", "<b>JGA Martin</b>"), # make my name fat
+    author = str_replace_all(author, "J Martin", "<b>JGA Martin</b>") # make my name fat
+  ) %>%
+  split(.$year) %>%
+  map(function(x) {
+    x <- x %>%
+      glue_data('<p><tr><td width="450">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {journal}, {number}, [citations: {cites}].</td></tr></p>') %>%
+      str_replace_all("(, ) +</p>", "</p>") %>%
+      str_replace_all("(, ) +<p>", "<p>") %>%
+      char2html()
+
+    return(x)
+  }) %>%
+  rev()
+
+# XVII Convegno Italiano di Ornitologia
+# Doctoral Dissertation, University of Turku, Turku, Finland
+
+
+
+html_3 <- map2(names(html_2) %>% paste0("<h3>", ., "</h3>"), html_2, c) %>% unlist()
+
+#html_3 <- html_3[!html_3 == "<p><tr><td width=\"450\"><b>G Masoero</b> (2020) <a href=\"https://scholar.google.com/scholar?oi=bibs&cluster=18249619297092509810&btnI=1&hl=en\">Food hoarding of an avian predator under food limitation and climate change</a>, Doctoral Dissertation, University of Turku, Turku, Finland, , [citations: 1].</td></tr></p>"]
+#html_3[length(html_3) - 1] <- "<h3>Conference papers</h3>"
+#html_3[length(html_3) + 1] <- "<h3>Doctoral dissertation</h3>"
+#html_3[length(html_3) + 1] <- "<p><tr><td width=\"450\"><b>G Masoero</b> (2020) <a href=\"https://scholar.google.com/scholar?oi=bibs&cluster=18249619297092509810&btnI=1&hl=en\">Food hoarding of an avian predator under food limitation and climate change</a>, Doctoral Dissertation, University of Turku, Turku, Finland, , [citations: 1].</td></tr></p>"
+
+html_4 <- glue_collapse(html_3) %>% str_replace_all(" , ", " ")
+```
+
+
+`r html_4`
