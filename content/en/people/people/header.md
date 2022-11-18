@@ -30,4 +30,5 @@ design:
 #  css_class: wide #fullscreen
 ---
 
-<center>{{< figure src="lab_sqebc_21.jpg" >}}</center>
+<center>{{< figure src="lab_latest.jpg" >}}</center>
+

@@ -60,3 +60,4 @@ For my PhD, I worked on reproductive strategies of bighorn sheep females with Pr
 
 ### Personality in wild eastern chipmunk
 I have done my M.Sc on personality in wild chipmunks under the supervision of Pr. <a href="http://www.unites.uqam.ca/crcec/indexEnglish.htm">Denis Réale</a>. My main interest was to establish if individuals differed in their behaviour in a stressful situation and how these differences were related to hormones and human disturbance
+
