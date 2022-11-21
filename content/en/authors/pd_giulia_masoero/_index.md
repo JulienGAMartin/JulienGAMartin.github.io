@@ -3,7 +3,7 @@
 title: Giulia Masoero
 
 # Role/position
-role: Environmental and evolutionary implications of swift becoming larger
+role: "Postdoc: Environmental and evolutionary implications of swift becoming larger"
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Postdocs
+- Lab members
 ---
 
-Giulia is interested in ecology, behaviour, population dynamics and evolutionary ecology, with a particular interest for birds as study species. She is a Marie Skłodowska-Curie fellow with a 2.5yr postdoc project that sees the collaboration between the University of Ottawa (Canada), University of Aberdeen (UK) and the Vogelwarte (Switzerland). Her project aims at investigating and explaining the recent changes in body size of Alpine swifts and understanding the short- and long-term effects of these changes. 
+Giulia is interested in ecology, behaviour, population dynamics and evolutionary ecology, with a particular interest for birds as study species. She is a Marie Skłodowska-Curie fellow with a 2.5yr postdoc project that sees the collaboration between the University of Ottawa (Canada), University of Aberdeen (UK) and the Vogelwarte (Switzerland). Her project aims at investigating and explaining the recent changes in body size of Alpine swifts and understanding the short- and long-term effects of these changes.
 In her free time, you can find her hiking in a nice forest or up a mountain.

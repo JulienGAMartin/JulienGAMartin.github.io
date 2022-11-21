@@ -20,7 +20,7 @@ education:
 organizations:
 - name: University of Ottawa
   url: ""
-role: Among individual differences in intra-individual variation in the wild, its importance and evolutionary consequences 
+role: "PhD: Among individual differences in intra-individual variation in the wild, its importance and evolutionary consequences" 
 #social:
 #- icon: envelope
 #  icon_pack: fas
@@ -39,4 +39,5 @@ title: Thibaut Barra
 user_groups:
 - PhD students
 - Étudiants PhD
+- Lab members
 ---

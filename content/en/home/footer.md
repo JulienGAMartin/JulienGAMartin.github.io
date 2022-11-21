@@ -29,4 +29,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<a rel="me" href="https://ecoevo.social/@jgamartin"></a>
+<a rel="me" href="https://ecoevo.social/@jgamartin"> </a>

@@ -50,6 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JGAMartin
+- icon: mastodon
+  icon_pack: fab
+  link: https://ecoevo.social/@jgamartin
 # google scholar
 - icon: google-scholar
   icon_pack: ai
@@ -83,7 +86,7 @@ highlight_name: false
 user_groups:
 - PI
 - Prof
-- Current lab members
+- Lab members
 ---
 
 <!-- add a brief description of your research interests and project -->

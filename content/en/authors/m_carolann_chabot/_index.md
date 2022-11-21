@@ -6,7 +6,7 @@ title: Carol-Ann Chabot
 superuser: false
 
 # Role/position
-role: "Age at Primiparity in yellow-bellied (Marmota flaviventer): Determinants and Life-History Consequences"
+role: "MSc on Age at first reproduction in marmots"
 # �ge � la primiparit� chez les marmottes � ventre jaune (Marmota flaviventer): Agents d�terminants et cons�quences biod�mographiques
 
 # Organizations/Affiliations
@@ -69,6 +69,7 @@ highlight_name: false
 user_groups:
 - MSc students
 - Étudiants MSc
+- Lab members
 ---
 
 I look forward to understanding the reproductive strategies of female yellow-bellied marmots by evaluating the causes and life-history consequences regarding the age at first reproduction with a multi-generational perspective. I plan on using the long-term study on this species conducted by the Rocky Mountain Biological Laboratory (RMBL) in Colorado with various information provided on each individual of the population.

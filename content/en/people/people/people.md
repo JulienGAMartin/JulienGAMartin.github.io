@@ -1,12 +1,12 @@
 ---
 content:
   user_groups:
-#    - Current lab members
-    - PI
-    - Postdocs
-    - PhD students
-    - MSc students
-    - Honours students
+    - Lab members
+#    - PI
+#    - Postdocs
+#    - PhD students
+#    - MSc students
+#    - Honours students
 #    - Visitors
 #    - Alumni PhD
 #    - Alumni MSc

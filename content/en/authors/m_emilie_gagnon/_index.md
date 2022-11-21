@@ -6,7 +6,7 @@ title: Émilie Gagnon
 superuser: false
 
 # Role/position
-role: Foraging behavior and body condition in Antillean manatee
+role: "MSc: Foraging behavior and body condition in Antillean manatee"
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,7 @@ highlight_name: false
 user_groups:
 - MSc students
 - Étudiants MSc
+- Lab members
 ---
 
 I am interested in the relationship between foraging behavior and body condition in the endangered Antillean manatee. I will be using cartography of coastal zones in Mexico and drone imagery of manatees to describe a central-place foraging behavior and relate the position of the animal to its body condition.
