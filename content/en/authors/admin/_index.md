@@ -6,7 +6,7 @@ title: Julien Martin
 superuser: true
 
 # Role/position
-role: Professor of Evolutionary ecology
+role: PI working on all those projects and more
 
 # Organizations/Affiliations
 organizations:

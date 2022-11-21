@@ -31,4 +31,4 @@ advanced:
 
 ---
 
-{{< gallery album = "lab_pics" >}}
+<center>{{< gallery album = "lab_pics" >}}</center>
