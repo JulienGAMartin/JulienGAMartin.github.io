@@ -23,7 +23,7 @@ role: Investigating the Accuracy of Body Condition Scoring Cameras Used in Dairy
 superuser: false
 title: Serena Spallin # your name
 user_groups:
-- Alumni Honours
+- Honours
 
 ---
 

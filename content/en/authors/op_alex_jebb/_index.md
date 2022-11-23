@@ -32,8 +32,7 @@ social:
 superuser: false
 title: Alex Jebb # your name
 user_groups:
-- Alumni PhD
-- Anciens PhD
+- PhD
 ---
 
 Alex is interested in the effects of early-life or maternal environment on the life histories of individuals within a species. She is will be researching this by comparing and contrasting different hypotheses, such as the Silver Spoon Hypothesis and Predictive Adaptive Response Hypothesis, within a long-term study population of Yellow-bellied Marmots in Colorado, U.S.

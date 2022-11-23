@@ -3,7 +3,7 @@
 title: Julien Martin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Evolutionary ecology
@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JGAMartin
+- icon: mastodon
+  icon_pack: fab
+  link: https://ecoevo.social@JGAMartin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=w6axPGHSSWsC&hl=en
@@ -68,8 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PI
-- Prof
+#- Postdocs PhD MSc honours
+- Lab members
 ---
 
 I am generally interested in understanding the causes of variation in life history traits in wild populations, with particular on the causes and consequences of within-individual variation in life history. The focus of my research is the evolutionary ecology of reproductive strategies and understanding the impact of environmental variation on adaptation and evolution of traits.

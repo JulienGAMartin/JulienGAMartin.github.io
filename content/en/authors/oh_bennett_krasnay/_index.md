@@ -27,7 +27,7 @@ social:
 superuser: false
 title: Bennett Krasnay
 user_groups:
-- Alumni Honours
+- Honours
 
 ---
 

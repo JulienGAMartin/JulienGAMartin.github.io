@@ -23,7 +23,7 @@ social:
 superuser: false
 title: Capucine Fiot # your name
 user_groups:
-- Alumni Honours
+- Honours
 
 ---
 

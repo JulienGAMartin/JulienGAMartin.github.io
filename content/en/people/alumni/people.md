@@ -1,10 +1,10 @@
 ---
 content:
   user_groups:
-  - Former postdocs
-  - Alumni PhD
-  - Alumni MSc
-  - Alumni Honours
+  - Postdocs
+  - PhD
+  - MSc
+  - Honours
 design:
   show_interests: false
   show_role: true

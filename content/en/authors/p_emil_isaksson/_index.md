@@ -34,8 +34,7 @@ social:
 superuser: false
 title: Emil Isaksson
 user_groups:
-- PhD students
-- Étudiants PhD
+#- PhD
 - Lab members
 ---
 

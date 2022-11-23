@@ -39,8 +39,7 @@ social:
 superuser: false
 title: Svenja B. Kroeger # your name
 user_groups:
-- Alumni PhD
-- Anciens PhD
+- PhD
 ---
 
 During her PhD, Svenja was looking at senescence in female yellow-bellied marmot body mass and reproductive success, and at transgenerational effects of senescence. After her Ph.D., Svenja spent one year in Equatorial Guinea, where she was involved in a project looking at effects of roads on bird diversity at different elevations, before moving to Norway for a two-year postdoctoral position in road ecology. Svenja is currently employed as a permanent researcher by the Norwegian Institute of Bioeconomy Research (NIBIO), with a research focus of infrastructure impacts on biodiversity.

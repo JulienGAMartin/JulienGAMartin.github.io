@@ -23,7 +23,7 @@ role: Genetic Variation of Neutrophil to Lymphocyte Ratio in a Wild Marmot Popul
 superuser: false
 title: Bernadette Chan # your name
 user_groups:
-- Alumni Honours
+- Honours
 
 ---
 

@@ -23,7 +23,7 @@ role: Sexual Dimorphism in the Alpine Swift
 superuser: false
 title: Yasmeen Hichri # your name
 user_groups:
-- Alumni Honours
+- Honours
 
 ---
 

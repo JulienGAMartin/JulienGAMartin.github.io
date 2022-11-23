@@ -38,8 +38,7 @@ social:
 superuser: false
 title: Sol Milne # your name
 user_groups:
-- Alumni PhD
-- Anciens PhD
+- PhD
 ---
 
 Sol Milne uses drones to study the ecology of orangutans and phenological activity of tropical forest. He is currently studying the effect of different land uses on Orangutan population densities forests of in Sabah, Malaysia which are strongly affected by logging and agroforestry practices. He is also using citizen science based identification of orangutan nests from drone images to determine population densities across different land use types. My zooniverse project should be available soon on the official zooniverse website.

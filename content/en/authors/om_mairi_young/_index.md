@@ -35,8 +35,7 @@ role: Behavioural responses to human disturbances at a recently established desi
 superuser: false
 title: Mairi Young
 user_groups:
-- Alumni MSc
-- Anciens MSc
+- MSc
 ---
 ​
 

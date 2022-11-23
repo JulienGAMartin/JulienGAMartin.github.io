@@ -37,8 +37,7 @@ social:
 superuser: false
 title: Michela Dumas
 user_groups:
-- PhD students
-- Étudiants PhD
+#- PhD students
 - Lab members
 ---
 
