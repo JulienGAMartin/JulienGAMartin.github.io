@@ -46,3 +46,4 @@ gallery_item:
 
 
 <center>{{< gallery album = "lab_pics" >}}</center>
+

@@ -8,7 +8,7 @@ role: "Postdoc: Environmental and evolutionary implications of swift becoming la
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-
+  url: https://giuliamasoero.github.io/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: "My research interests include behavioural, population and evolutionary ecology,... and of course birds!" #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/giuliamasoero
+- icon: spider
+  icon_pack: fas
+  link: https://giuliamasoero.github.io/ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
