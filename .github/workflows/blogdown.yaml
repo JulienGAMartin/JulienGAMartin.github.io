@@ -8,7 +8,7 @@ name: blogdown
 
 jobs:
   build:
-    runs-on: macOS
+    runs-on: windows-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -21,12 +21,12 @@ jobs:
       - name: Setup pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
-      - name: Cache Renv packages
-        uses: actions/cache@v3
-        with:
-          path: $HOME/.local/share/renv
-          key: r-${{ hashFiles('renv.lock') }}
-          restore-keys: r-
+#      - name: Cache Renv packages
+#        uses: actions/cache@v3
+#        with:
+#          path: $HOME/.local/share/renv
+#          key: r-${{ hashFiles('renv.lock') }}
+#          restore-keys: r-
 
 #      - name: Install hugo
 #        run: |
@@ -34,8 +34,9 @@ jobs:
 
       - name: Install packages
         run: |
-          R -e 'install.packages(c("renv", "rmarkdown", "blogdown"))'
-          R -e 'renv::restore()'
+          R -e 'install.packages(c("rmarkdown", "blogdown"))'
+#          R -e 'install.packages(c("renv", "rmarkdown", "blogdown"))'
+#          R -e 'renv::restore()'
 
       - name: Build site via blogdown
         run: |
