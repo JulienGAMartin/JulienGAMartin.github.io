@@ -8,7 +8,7 @@ name: blogdown
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -51,9 +51,9 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public/ # The folder the action should deploy.
-          CLEAN: true 
+          token: ${{ secrets.GH_PAT }}
+          branch: gh-pages # The branch the action should deploy to.
+          folder: public/ # The folder the action should deploy.
+          clean: true 
