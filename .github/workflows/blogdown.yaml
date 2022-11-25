@@ -34,15 +34,17 @@ jobs:
 
       - name: Install packages
         run: |
-          R -e 'install.packages(c("rmarkdown", "blogdown"))'
+          install.packages(c("rmarkdown", "blogdown"))
 #          R -e 'install.packages(c("renv", "rmarkdown", "blogdown"))'
 #          R -e 'renv::restore()'
+        shell: Rscript {0}
 
       - name: Build site via blogdown
         run: |
-          R -e 'blogdown::install_hugo(version = "0.92.0", extended = TRUE)'
-          R -e 'blogdown::build_site(TRUE)'
-          R -e 'file.create("public/.nojekyll")'
+          blogdown::install_hugo(version = "0.92.0", extended = TRUE)
+          blogdown::build_site(TRUE)
+          file.create("public/.nojekyll")
+        shell: Rscript {0}
 
 
       - name: Install npm
