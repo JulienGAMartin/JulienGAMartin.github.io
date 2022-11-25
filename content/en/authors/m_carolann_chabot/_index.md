@@ -21,10 +21,10 @@ bio: "" #My research interests include evolutionary ecology, animal physiology a
 interests:
 - Life-history strategies
 - Costs of reproduction
-- Gardening   icon:tulip icon:potted_plant
-- Outdoors  icon:moutain
-- Traveling icon:world_map
-- Swimming icon:swimming_woman
+- "Gardening :tulip: :potted_plant:"
+- "Outdoors  :mountain:"
+- "Traveling :world_map:"
+- "Swimming :swimming_woman:"
 
 #FR: 
 #-Strat�gies biod�mographiques
