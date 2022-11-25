@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: macOS-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.pat_deploy }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -53,7 +53,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.pat_deploy }}
           branch: gh-pages # The branch the action should deploy to.
           folder: public/ # The folder the action should deploy.
           clean: true 
