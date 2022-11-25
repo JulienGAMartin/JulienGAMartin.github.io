@@ -7,10 +7,20 @@
     <description>Sol Milne</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
     <image>
-      <url>/author/sol-milne/avatar_hu02352adb67f2c7992b87431fd9c863db_69850_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/media/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_3.png</url>
       <title>Sol Milne</title>
       <link>/author/sol-milne/</link>
     </image>
+    
+    <item>
+      <title>Sol Milne</title>
+      <link>/author/sol-milne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/sol-milne/</guid>
+      <description>&lt;p&gt;Sol Milne uses drones to study the ecology of orangutans and phenological activity of tropical forest. He is currently studying the effect of different land uses on Orangutan population densities forests of in Sabah, Malaysia which are strongly affected by logging and agroforestry practices. He is also using citizen science based identification of orangutan nests from drone images to determine population densities across different land use types. My zooniverse project should be available soon on the official zooniverse website.&lt;/p&gt;
+&lt;p&gt;During his PhD, Sol was co-supervised by David Burslem (uAberdeen) and Julien Martin&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
