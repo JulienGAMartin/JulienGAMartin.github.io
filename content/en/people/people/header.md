@@ -30,5 +30,5 @@ design:
 #  css_class: wide #fullscreen
 ---
 
-<center>{{< figure src="lab_latest.jpg" >}}</center>
+<center>{{< figure_mad src="lab_latest.jpg" src_mad="lab_latest_mad.jpg">}}</center>
 
