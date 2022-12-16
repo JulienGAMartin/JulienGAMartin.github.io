@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Lab gallery
+title: 
 subtitle:
 
 design:
@@ -31,19 +31,26 @@ design:
 
 gallery_item:
 - album: lab_pics
-  image: 500-21_1_sqebc.jpg
+  image: 500-21_11_sqebc.jpg
   caption: SQEBC 2021, Sherbrooke
 - album: lab_pics
-  image: 499-22_1_thib_pt.jpg
+  image: 499-22_10_thib_pt.jpg
   caption: Potluck fall 2022, Gatineau 
 - album: lab_pics
-  image: 498-22_2_sqebc.jpg
+  image: 498-22_11_sqebc.jpg
   caption: SQEBC 2022, Ottawa
 - album: lab_pics
-  image: 497-22_3_sqebc.jpg
+  image: 497-22_11_sqebc.jpg
   caption: SQEBC 2022, Gatineau
+- album: lab_pics
+  image: 496_22_12_escape.jpg
+  caption: Jigsaw Escape room 2022, Ottawa
 ---
 
+<center>
+<h1> <a href="{{< ref "/mad_gallery" >}}" style="text-decoration: none"> (Mad)</a> Lab Gallery</h1>
 
-<center>{{< gallery album = "lab_pics" >}}</center>
+{{< gallery album = "lab_pics" >}}
+
+</center>
 
