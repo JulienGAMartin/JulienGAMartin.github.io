@@ -50,7 +50,6 @@ gallery_item:
 <center>
 <h1> <a href="{{< ref "/mad_gallery" >}}" style="text-decoration: none"> (Mad)</a> Lab Gallery</h1>
 
-{{< gallery album = "lab_pics" >}}
+{{< gallery album = "lab_pics" order = "desc">}}
 
 </center>
-

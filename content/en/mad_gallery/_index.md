@@ -12,6 +12,5 @@ gallery_item:
   caption: Jigsaw Escape room 2022, Ottawa
 ---
 <center>
-{{< gallery album = "mad_pics" >}}
+{{< gallery album = "mad_pics" order = "desc">}}
 </center>
-
