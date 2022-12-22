@@ -31,20 +31,23 @@ design:
 
 gallery_item:
 - album: lab_pics
-  image: 500-21_11_sqebc.jpg
+  image: 2021-11-07_sqebc.jpg
   caption: SQEBC 2021, Sherbrooke
 - album: lab_pics
-  image: 499-22_10_thib_pt.jpg
+  image: 2022-10-16_potluck.jpg
   caption: Potluck fall 2022, Gatineau 
 - album: lab_pics
-  image: 498-22_11_sqebc.jpg
+  image: 2022-11-04_sqebc.jpg
   caption: SQEBC 2022, Ottawa
 - album: lab_pics
-  image: 497-22_11_sqebc.jpg
+  image: 2022-11-06_sqebc.jpg
   caption: SQEBC 2022, Gatineau
 - album: lab_pics
-  image: 496_22_12_escape.jpg
+  image: 2022-12-14_escape.jpg
   caption: Jigsaw Escape room 2022, Ottawa
+- album: lab_pics
+  image: 2022-12-19_pub.jpg
+  caption: Christmas party 2022, Ottawa
 ---
 
 <center>

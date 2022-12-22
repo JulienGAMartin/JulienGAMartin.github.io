@@ -8,9 +8,14 @@ view: 2
 
 gallery_item:
 - album: mad_pics
-  image: 496_22_12_escape_mad.jpg
+  image: 2022-12-14_escape_mad.jpg
   caption: Jigsaw Escape room 2022, Ottawa
+- album: mad_pics
+  image: 2022-12-19_pub_mad.jpg
+  caption: Christmas party 2022, Ottawa
 ---
 <center>
 {{< gallery album = "mad_pics" order = "desc">}}
 </center>
+
+<h3> <a href="{{< ref "/people/people" >}}" style="text-decoration: none"> Back to Team page</a> </h3>
