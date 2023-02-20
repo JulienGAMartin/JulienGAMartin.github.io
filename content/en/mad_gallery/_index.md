@@ -13,6 +13,10 @@ gallery_item:
 - album: mad_pics
   image: 2022-12-19_pub_mad.jpg
   caption: Christmas party 2022, Ottawa
+- album: mad_pics
+  image: 2023-02-15_pub_night_mad.jpg
+  caption: Plenty to celebrate pub night, Feb 2023, Ottawa
+
 ---
 <center>
 {{< gallery album = "mad_pics" order = "desc">}}

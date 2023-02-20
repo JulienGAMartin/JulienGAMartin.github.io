@@ -48,6 +48,10 @@ gallery_item:
 - album: lab_pics
   image: 2022-12-19_pub.jpg
   caption: Christmas party 2022, Ottawa
+- album: lab_pics
+  image: 2023-02-15_pub_night.jpg
+  caption: Plenty to celebrate pub night, Feb 2023, Ottawa
+
 ---
 
 <center>
