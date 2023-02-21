@@ -17,6 +17,9 @@ gallery_item:
   image: 2023-01-28_lab_retreat_mad.jpg
   caption: 1st joint lab retreat with Montiglio lab, Jan 2023
 - album: mad_pics
+  image: 2023-01-28_lab_retreat_out_mad.jpg
+  caption: 1st joint lab retreat with Montiglio lab, Jan 2023
+- album: mad_pics
   image: 2023-02-15_pub_night_mad.jpg
   caption: Plenty to celebrate pub night, Feb 2023, Ottawa
 
