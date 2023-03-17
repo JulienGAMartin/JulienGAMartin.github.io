@@ -25,7 +25,7 @@ social:
 - icon: ""
   icon_pack: ""
 superuser: false
-title: Cammy Beyts
+title: 2021. Cammy Beyts
 user_groups:
 - Visitors
 - Visiteurs

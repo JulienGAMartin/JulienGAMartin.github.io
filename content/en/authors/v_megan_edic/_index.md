@@ -1,6 +1,6 @@
 ---
 authors:
-- Megan Edic # your name
+- 2022. Megan Edic # your name
 bio: asdfa # leave blank
 education: # please fill in use "" for empty
   courses:
@@ -26,7 +26,7 @@ social:
 #  icon_pack: fab
 #  link:  # github account in format #https://github.com/github_name
 superuser: false
-title: Megan Edic # your name
+title: 2022. Megan Edic # your name
 user_groups:
 - Visitors
 - Visiteurs

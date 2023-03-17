@@ -41,10 +41,14 @@ main:
     parent: "People"
     url: "people/alumni"
     weight: 2
-  - name: "Collaborators & Visitors"
+  - name: "Visitors"
     parent: "People"
     url: "people/visiting"
     weight: 3
+  - name: "Collaborators"
+    parent: "People"
+    url: "people/collab"
+    weight: 4
   - name: "uOttawa classes"
     parent: "Courses"
     url: "courses/uottawa"

@@ -26,7 +26,7 @@ role: DNA methylation and hibernation # project title
 #  icon_pack: fab
 #  link:  # github account in format #https://github.com/github_name
 superuser: false
-title: Gabriela Pinho # your name
+title: 2020. Gabriela Pinho # your name
 user_groups:
 - Visitors
 - Visiteurs
