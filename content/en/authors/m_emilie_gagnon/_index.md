@@ -6,7 +6,7 @@ title: Émilie Gagnon
 superuser: false
 
 # Role/position
-role: "MSc: Foraging behavior and body condition in Antillean manatee"
+role: "MSc: Multi-scale habitat selection of Antillean manatees in southeastern Mexico"
 
 # Organizations/Affiliations
 organizations:
@@ -60,5 +60,5 @@ user_groups:
 - Lab members
 ---
 
-I am interested in the relationship between foraging behavior and body condition in the endangered Antillean manatee. I will be using cartography of coastal zones in Mexico and drone imagery of manatees to describe a central-place foraging behavior and relate the position of the animal to its body condition.
+I study the habitat selection of Antillean manatees (Trichechus manatus manatus) in Sian Ka'an, southeastern Mexico. I am identifying the important environmental variables explaining manatee presence at both a fine and large spatial scale. For my statistical anaylses, I use generalized linear mixed models with a Bayesian approach.
 
