@@ -33,4 +33,3 @@ design:
 - Bridgett VonHolt, Princeton, USA
 
 - Arpat Ozgul, Zurich University, Switzerland
-
