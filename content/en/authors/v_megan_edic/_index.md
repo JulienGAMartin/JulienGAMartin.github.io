@@ -1,6 +1,6 @@
 ---
 authors:
-- 2022. Megan Edic # your name
+- Megan Edic # your name
 bio: asdfa # leave blank
 education: # please fill in use "" for empty
   courses:
@@ -11,7 +11,7 @@ email: meganedic16@gmail.com # email here
 organizations:
 - name: University of California - Los Angeles 
   url: "" # your webpage here
-role: Heritable Variation in Female Yellow-bellied Marmot Dispersal # project title
+role: 2022, MSc student, UCLA Travel scholarship # project title
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,10 +26,12 @@ social:
 #  icon_pack: fab
 #  link:  # github account in format #https://github.com/github_name
 superuser: false
-title: 2022. Megan Edic # your name
+title: Megan Edic # your name
 user_groups:
 - Visitors
 - Visiteurs
 ---
+
+### Heritable Variation in Female Yellow-bellied Marmot Dispersal
 
 UCLA master's student investigating genetic variation in female yellow-bellied marmot  dispersal.

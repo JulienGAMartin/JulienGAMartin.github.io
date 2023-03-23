@@ -11,7 +11,7 @@ email: "" # email here
 organizations:
 - name: University of California - Los Angeles 
   url: "" # your webpage here
-role: DNA methylation and hibernation # project title
+role: 2020, PhD student, UCLA Travel scholarship # project title
 #social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,10 +26,13 @@ role: DNA methylation and hibernation # project title
 #  icon_pack: fab
 #  link:  # github account in format #https://github.com/github_name
 superuser: false
-title: 2020. Gabriela Pinho # your name
+title: Gabriela Pinho # your name
 user_groups:
 - Visitors
 - Visiteurs
 ---
+
+### DNA methylation and hibernation
+
 
 Gabi obtained a travelling from UCLA to spend 2 weeks in the lab to work on her project on DNA methylation and hibernation in marmots. The project was to test the hibernation hypothesis on aging that predict a slowing down or even reversal of aging processes during hibernation.

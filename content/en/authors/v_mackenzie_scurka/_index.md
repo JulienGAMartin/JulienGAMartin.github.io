@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 2023. Mackenzie Scurka
+title: Mackenzie Scurka
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MS student in Ecology
+role: 2023, MSc student, UCLA Travel scholarship
 
 # Organizations/Affiliations
 organizations:
