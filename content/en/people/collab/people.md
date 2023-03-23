@@ -8,7 +8,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: "*Fantastic* collaborators"
+title: "Long-term project collaborators"
 weight: 20
 widget: people
 ---
