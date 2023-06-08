@@ -18,7 +18,7 @@ interests: # can add more if you want
 organizations:
 - name: University of California - Los Angeles
   url: "" # your webpage here
-role: Marmot whisperer # project title
+role: Marmot whisperer and surfer extraordinaire # project title
 social:
 - icon: envelope
   icon_pack: fas
