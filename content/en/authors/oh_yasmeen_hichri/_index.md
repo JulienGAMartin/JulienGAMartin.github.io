@@ -15,7 +15,7 @@ bio: # leave blank
 #organizations:
 #- name: University of Ottawa 
 #  url: "" # your webpage here
-role: Sexual Dimorphism in the Alpine Swift
+role: "2022: Sexual Dimorphism in the Alpine Swift"
 #social:
 #- icon: envelope
 #  icon_pack: fas

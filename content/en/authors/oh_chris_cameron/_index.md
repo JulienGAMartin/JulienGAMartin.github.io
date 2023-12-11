@@ -6,7 +6,7 @@ title: Chris Cameron
 superuser: false
 
 # Role/position
-role: Honour's Student
+role: "2023: Relationships between heterozygosity and fitness in Yellow-bellied marmots"
 
 # Organizations/Affiliations
 organizations:
@@ -22,5 +22,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Honours #Lab members
 ---

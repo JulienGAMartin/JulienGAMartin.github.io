@@ -21,7 +21,7 @@ email: "" # email here
 organizations:
 - name: University of Aberdeen 
   url: "" # your webpage here
-role: Using UAV to understand the relation between human disturbance, phenology and orangutan # project title
+role: "2020: Using UAV to understand the relation between human disturbance, phenology and orangutan" # project title
 social:
 - icon: envelope
   icon_pack: fas

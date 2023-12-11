@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: University of Ottawa
   url: "https://www.uottawa.ca/en"
-role: Sex Dependent Genetic Basis of Longevity in Yellow Bellied Marmots
+role: "2021: Sex Dependent Genetic Basis of Longevity in Yellow Bellied Marmots"
 social:
 - icon: envelope
   icon_pack: fas

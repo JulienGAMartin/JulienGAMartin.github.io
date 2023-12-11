@@ -15,7 +15,7 @@ bio: # leave blank
 organizations:
 - name: University of Ottawa 
 #  url: "" # your webpage here
-role: Genetic Variation of Neutrophil to Lymphocyte Ratio in a Wild Marmot Population
+role: "2022: Genetic Variation of Neutrophil to Lymphocyte Ratio in a Wild Marmot Population"
 #social:
 #- icon: envelope
 #  icon_pack: fas

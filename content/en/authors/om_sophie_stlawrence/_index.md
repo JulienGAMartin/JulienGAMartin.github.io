@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: University of Ottawa
   url: https://www.uottawa.ca/en
-role: The Effect of Climate Change on the Timing of Reproduction and its Plasticity in yellow-bellied marmots
+role: "2022: The Effect of Climate Change on the Timing of Reproduction and its Plasticity in yellow-bellied marmots"
 social:
 - icon: envelope
   icon_pack: fas

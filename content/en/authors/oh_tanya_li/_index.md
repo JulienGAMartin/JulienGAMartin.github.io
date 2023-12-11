@@ -6,7 +6,7 @@ title: Tanya Li
 superuser: false
 
 # Role/position
-role: "Honour's: The Effects of Climate Change on the Laying dates of Alpine Swift"
+role: "2023: The Effects of Climate Change on the Laying dates of Alpine Swift"
 
 # Organizations/Affiliations
 organizations:
@@ -44,5 +44,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- Honours #Lab members
 ---

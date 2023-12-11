@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: University of Aberdeen
   url: 
-role: Behavioural responses to human disturbances at a recently established designated Atlantic grey seal (Halichoerus grypus) haulout site
+role: "2021: Behavioural responses to human disturbances at a recently established designated Atlantic grey seal (Halichoerus grypus) haulout site"
 # social:
 # - icon: ""
 #   icon_pack: fas

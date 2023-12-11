@@ -22,7 +22,7 @@ interests: # can add more if you want
 organizations:
 - name: University of Aberdeen 
   url: https://www.nibio.no/ansatte/svenja-kroeger # your webpage here
-role: Chronological and biological senescence in wild yellow-bellied marmots (Marmota flaviventer) # project title
+role: "2017: Chronological and biological senescence in wild yellow-bellied marmots (Marmota flaviventer)" # project title
 social:
 - icon: envelope
   icon_pack: fas

@@ -6,7 +6,7 @@ title: Émilie Gagnon
 superuser: false
 
 # Role/position
-role: "MSc: Multi-scale habitat selection of Antillean manatees in southeastern Mexico"
+role: "2023: Multi-scale habitat selection of Antillean manatees in southeastern Mexico"
 
 # Organizations/Affiliations
 organizations:
@@ -55,9 +55,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MSc students
-- Étudiants MSc
-- Lab members
+- MSc
+#- Étudiants MSc
+#- Lab members
 ---
 
 I study the habitat selection of Antillean manatees (Trichechus manatus manatus) in Sian Ka'an, southeastern Mexico. I am identifying the important environmental variables explaining manatee presence at both a fine and large spatial scale. For my statistical anaylses, I use generalized linear mixed models with a Bayesian approach.

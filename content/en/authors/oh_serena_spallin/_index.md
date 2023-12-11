@@ -15,7 +15,7 @@ bio: # leave blank
 organizations:
 - name: University of Ottawa 
 #  url: "" # your webpage here
-role: Investigating the Accuracy of Body Condition Scoring Cameras Used in Dairy Farming
+role: "2022: Investigating the Accuracy of Body Condition Scoring Cameras Used in Dairy Farming"
 #social:
 #- icon: envelope
 #  icon_pack: fas

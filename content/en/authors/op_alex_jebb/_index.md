@@ -15,7 +15,7 @@ email: "" # email here
 organizations:
 - name: University of Aberdeen 
   url: "" # your webpage here
-role: Contrasting the silverspoon and the predictive adaptive response hypotheses in Yellow-Bellied Marmot # project title
+role: "2022: Contrasting the silverspoon and the predictive adaptive response hypotheses in Yellow-Bellied Marmot" # project title
 social:
 - icon: envelope
   icon_pack: fas
