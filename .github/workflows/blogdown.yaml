@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.WEBSITE_TOKEN }}
     steps:
@@ -37,8 +37,6 @@ jobs:
       - name: Install packages
         run: |
           install.packages(c("rmarkdown", "blogdown", "scholar", "tidyverse", "glue"))
-#          R -e 'install.packages(c("renv", "rmarkdown", "blogdown"))'
-#          R -e 'renv::restore()'
         shell: Rscript {0}
 
       - name: Build site via blogdown
