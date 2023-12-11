@@ -5,10 +5,12 @@ on:
       - master
 
 name: blogdown
+permissions:
+  contents: write
 
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.WEBSITE_TOKEN }}
     steps:
