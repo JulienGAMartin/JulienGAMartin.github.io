@@ -51,10 +51,10 @@ main:
     weight: 4
   - name: "uOttawa classes"
     parent: "Courses"
-    url: "courses/uottawa"
+    url: "courses#biostat"
     weight: 1
   - name: "Tutorials"
     parent: "Courses"
-    url: "courses/tutorials"
+    url: "courses#tut"
     weight: 2
 
