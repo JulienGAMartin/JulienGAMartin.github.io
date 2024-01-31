@@ -13,101 +13,6 @@
     </image>
     
     <item>
-      <title>Python basics</title>
-      <link>/courses/example/python/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/python/</guid>
-      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
-&lt;li&gt;Slower than tuples&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tuples&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
-&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
-&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
-  &lt;p&gt;Yes&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>/courses/example/visualization/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/visualization/</guid>
-      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
-  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
-data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
-fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
-fig.show()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>/courses/example/stats/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/stats/</guid>
-      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
-&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
-&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
-  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
-&lt;/details&gt;</description>
-    </item>
-    
-    <item>
       <title>Gallery</title>
       <link>/other/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -220,7 +125,7 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-E Haave-Audet, &lt;b&gt;JGA Martin&lt;/b&gt;, JJ Wijmenga, KJ Mathot (2024) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=NA&amp;btnI=1&amp;hl=en&#34;&gt;Information Gathering Is Associated with Increased Survival: A Field Experiment in Black-Capped Chickadees (Poecile atricapillus)&lt;/a&gt;, The American Naturalist, 203 (1), 000-000, [citations: 0].
+E Haave-Audet, &lt;b&gt;JGA Martin&lt;/b&gt;, JJ Wijmenga, KJ Mathot (2024) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=NA&amp;btnI=1&amp;hl=en&#34;&gt;Information Gathering Is Associated with Increased Survival: A Field Experiment in Black-Capped Chickadees (Poecile atricapillus)&lt;/a&gt;, The American Naturalist, 203 (1), 109-123, [citations: 0].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -251,6 +156,13 @@ C Beyts, M Cella, N Colegrave, R Downie, &lt;b&gt;JGA Martin&lt;/b&gt;, P Walsh 
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
+N Kermany, &lt;b&gt;JGA Martin&lt;/b&gt;, V Careau (2023) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=5252561161071992965&amp;btnI=1&amp;hl=en&#34;&gt;Individual (co) variation in locomotor activity, temporal plasticity, and predictability within a novel environment&lt;/a&gt;, Behavioral Ecology and Sociobiology, 77 (8), 93, [citations: 1].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;tr&gt;
+&lt;td width=&#34;450&#34;&gt;
 L Bliard, JS Martin, M Paniw, DT Blumstein, &lt;b&gt;JGA Martin&lt;/b&gt;, JM Pemberton et al. (2023) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=NA&amp;btnI=1&amp;hl=en&#34;&gt;Detecting context-dependence in the expression of demographic tradeoffs&lt;/a&gt;, EcoEvoRxiv, [citations: 0].
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -272,7 +184,7 @@ SCC Gordon, &lt;b&gt;JGA Martin&lt;/b&gt;, JT Kerr (2023) &lt;a href=&#34;https:
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-N Kermany, &lt;b&gt;JGA Martin&lt;/b&gt;, V Careau (2023) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=NA&amp;btnI=1&amp;hl=en&#34;&gt;Individual (co) variation in locomotor activity, temporal plasticity, and predictability within a novel environment&lt;/a&gt;, Behavioral Ecology and Sociobiology, 77 (8), 93, [citations: 0].
+E Haave-Audet, &lt;b&gt;JGA Martin&lt;/b&gt;, J Wijmenga, K Mathot (2023) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=NA&amp;btnI=1&amp;hl=en&#34;&gt;Information gathering is related to increased survival: A field experiment in black-capped chickadees&lt;/a&gt;, OSF, [citations: 0].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -289,7 +201,7 @@ DM Williams, S Beckert, &lt;b&gt;JGA Martin&lt;/b&gt;, DT Blumstein (2023) &lt;a
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-GM Pinho, &lt;b&gt;JGA Martin&lt;/b&gt;, C Farrell, A Haghani, JA Zoller, J Zhang, S Snir et al. (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=3218931904819507458&amp;btnI=1&amp;hl=en&#34;&gt;Hibernation slows epigenetic ageing in yellow-bellied marmots&lt;/a&gt;, Nature ecology &amp;amp; evolution, 6 (4), 418-426, [citations: 31].
+GM Pinho, &lt;b&gt;JGA Martin&lt;/b&gt;, C Farrell, A Haghani, JA Zoller, J Zhang, S Snir et al. (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=3218931904819507458&amp;btnI=1&amp;hl=en&#34;&gt;Hibernation slows epigenetic ageing in yellow-bellied marmots&lt;/a&gt;, Nature ecology &amp;amp; evolution, 6 (4), 418-426, [citations: 32].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -303,14 +215,14 @@ T Santika, J Sherman, M Voigt, M Ancrenaz, SA Wich, KA Wilson et al. (2022) &lt
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-R Fay, &lt;b&gt;JGA Martin&lt;/b&gt;, F Plard (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=2791765539353842644&amp;btnI=1&amp;hl=en&#34;&gt;Distinguishing within‐from between‐individual effects: How to use the within‐individual centring method for quadratic patterns&lt;/a&gt;, Journal of Animal Ecology, 91 (1), 8-19, [citations: 10].
+R Fay, &lt;b&gt;JGA Martin&lt;/b&gt;, F Plard (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=2791765539353842644&amp;btnI=1&amp;hl=en&#34;&gt;Distinguishing within‐from between‐individual effects: How to use the within‐individual centring method for quadratic patterns&lt;/a&gt;, Journal of Animal Ecology, 91 (1), 8-19, [citations: 11].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-S St. Lawrence, MN Dumas, M Petelle, DT Blumstein, &lt;b&gt;JGA Martin&lt;/b&gt; (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4315127161155246682&amp;btnI=1&amp;hl=en&#34;&gt;Sex-specific reproductive strategies in wild yellow-bellied marmots (Marmota flaviventer): senescence and genetic variance in annual reproductive success differ …&lt;/a&gt;, Behavioral Ecology and Sociobiology, 76 (6), 84, [citations: 5].
+S St. Lawrence, MN Dumas, M Petelle, DT Blumstein, &lt;b&gt;JGA Martin&lt;/b&gt; (2022) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4315127161155246682&amp;btnI=1&amp;hl=en&#34;&gt;Sex-specific reproductive strategies in wild yellow-bellied marmots (Marmota flaviventer): senescence and genetic variance in annual reproductive success differ …&lt;/a&gt;, Behavioral Ecology and Sociobiology, 76 (6), 84, [citations: 6].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -348,7 +260,7 @@ SB Kroeger, DT Blumstein, &lt;b&gt;JGA Martin&lt;/b&gt; (2021) &lt;a href=&#34;h
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-S Milne, &lt;b&gt;JGA Martin&lt;/b&gt;, G Reynolds, CS Vairappan, EM Slade, JF Brodie et al. (2021) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=554884217695732866&amp;btnI=1&amp;hl=en&#34;&gt;Drivers of bornean orangutan distribution across a multiple-use tropical landscape&lt;/a&gt;, Remote Sensing, 13 (3), 458, [citations: 9].
+S Milne, &lt;b&gt;JGA Martin&lt;/b&gt;, G Reynolds, CS Vairappan, EM Slade, JF Brodie et al. (2021) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=554884217695732866&amp;btnI=1&amp;hl=en&#34;&gt;Drivers of bornean orangutan distribution across a multiple-use tropical landscape&lt;/a&gt;, Remote Sensing, 13 (3), 458, [citations: 10].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -407,7 +319,7 @@ DF Westneat, YG Araya‐Ajoy, H Allegue, B Class, N Dingemanse et al. (2020) &l
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-PM Prentice, TM Houslay, &lt;b&gt;JGA Martin&lt;/b&gt;, AJ Wilson (2020) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=16282256142941118424&amp;btnI=1&amp;hl=en&#34;&gt;Genetic variance for behavioural ’predictability’of stress response&lt;/a&gt;, Journal of Evolutionary Biology, 33 (5), 642-652, [citations: 26].
+PM Prentice, TM Houslay, &lt;b&gt;JGA Martin&lt;/b&gt;, AJ Wilson (2020) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=16282256142941118424&amp;btnI=1&amp;hl=en&#34;&gt;Genetic variance for behavioural ’predictability’of stress response&lt;/a&gt;, Journal of Evolutionary Biology, 33 (5), 642-652, [citations: 28].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -421,7 +333,7 @@ SB Kroeger, DT Blumstein, KB Armitage, JM Reid, &lt;b&gt;JGA Martin&lt;/b&gt; (2
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-AP Montero, DM Williams, &lt;b&gt;JGA Martin&lt;/b&gt;, DT Blumstein (2020) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=10122812438159350880&amp;btnI=1&amp;hl=en&#34;&gt;More social female yellow-bellied marmots, Marmota flaviventer, have enhanced summer survival&lt;/a&gt;, Animal behaviour, 160, 113-119, [citations: 22].
+AP Montero, DM Williams, &lt;b&gt;JGA Martin&lt;/b&gt;, DT Blumstein (2020) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=10122812438159350880&amp;btnI=1&amp;hl=en&#34;&gt;More social female yellow-bellied marmots, Marmota flaviventer, have enhanced summer survival&lt;/a&gt;, Animal behaviour, 160, 113-119, [citations: 23].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -459,7 +371,7 @@ A Jebb, D Blumstein, &lt;b&gt;JGA Martin&lt;/b&gt;, P Bize (2020) &lt;a href=&#3
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-KM Boswell, ME Kimball, G Rieucau, &lt;b&gt;JGA Martin&lt;/b&gt;, DA Jacques, D Correa et al. (2019) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=6615735559426999319&amp;btnI=1&amp;hl=en&#34;&gt;Tidal stage mediates periodic asynchrony between predator and prey nekton in salt marsh creeks&lt;/a&gt;, Estuaries and Coasts, 42, 1342-1352, [citations: 17].
+KM Boswell, ME Kimball, G Rieucau, &lt;b&gt;JGA Martin&lt;/b&gt;, DA Jacques, D Correa et al. (2019) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=6615735559426999319&amp;btnI=1&amp;hl=en&#34;&gt;Tidal stage mediates periodic asynchrony between predator and prey nekton in salt marsh creeks&lt;/a&gt;, Estuaries and Coasts, 42, 1342-1352, [citations: 18].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -490,7 +402,7 @@ M Lehto Hürlimann, &lt;b&gt;JGA Martin&lt;/b&gt;, P Bize (2019) &lt;a href=&#34
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-DT Blumstein, DM Williams, AN Lim, S Kroeger, &lt;b&gt;JGA Martin&lt;/b&gt; (2018) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=12311462285910354157&amp;btnI=1&amp;hl=en&#34;&gt;Strong social relationships are associated with decreased longevity in a facultatively social mammal&lt;/a&gt;, Proceedings of the Royal Society B: Biological Sciences, 285 (1871), 20171934, [citations: 63].
+DT Blumstein, DM Williams, AN Lim, S Kroeger, &lt;b&gt;JGA Martin&lt;/b&gt; (2018) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=12311462285910354157&amp;btnI=1&amp;hl=en&#34;&gt;Strong social relationships are associated with decreased longevity in a facultatively social mammal&lt;/a&gt;, Proceedings of the Royal Society B: Biological Sciences, 285 (1871), 20171934, [citations: 64].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -514,7 +426,7 @@ SB Kroeger, DT Blumstein, KB Armitage, JM Reid, &lt;b&gt;JGA Martin&lt;/b&gt; (2
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-&lt;b&gt;JGA Martin&lt;/b&gt;, E Pirotta, MB Petelle, DT Blumstein (2017) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=18234741468632281732&amp;btnI=1&amp;hl=en&#34;&gt;Genetic basis of between‐individual and within‐individual variance of docility&lt;/a&gt;, Journal of Evolutionary Biology, 30 (4), 796-805, [citations: 26].
+&lt;b&gt;JGA Martin&lt;/b&gt;, E Pirotta, MB Petelle, DT Blumstein (2017) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=18234741468632281732&amp;btnI=1&amp;hl=en&#34;&gt;Genetic basis of between‐individual and within‐individual variance of docility&lt;/a&gt;, Journal of Evolutionary Biology, 30 (4), 796-805, [citations: 27].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -531,7 +443,7 @@ P Bize, G Daniel, VA Viblanc, &lt;b&gt;JGA Martin&lt;/b&gt;, B Doligez (2017) &l
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-MB Petelle, &lt;b&gt;JGA Martin&lt;/b&gt;, DT Blumstein (2015) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=10820641579817595873&amp;btnI=1&amp;hl=en&#34;&gt;Heritability and genetic correlations of personality traits in a wild population of yellow‐bellied marmots (Marmota flaviventris)&lt;/a&gt;, Journal of Evolutionary Biology, 28 (10), 1840-1848, [citations: 62].
+MB Petelle, &lt;b&gt;JGA Martin&lt;/b&gt;, DT Blumstein (2015) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=10820641579817595873&amp;btnI=1&amp;hl=en&#34;&gt;Heritability and genetic correlations of personality traits in a wild population of yellow‐bellied marmots (Marmota flaviventris)&lt;/a&gt;, Journal of Evolutionary Biology, 28 (10), 1840-1848, [citations: 63].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -562,7 +474,7 @@ TD Fouqueray, DT Blumstein, R Monclús, &lt;b&gt;JGA Martin&lt;/b&gt; (2014) &lt
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-&lt;b&gt;JGA Martin&lt;/b&gt;, MB Petelle, DT Blumstein (2014) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4385477950937281545&amp;btnI=1&amp;hl=en&#34;&gt;Environmental, social, morphological, and behavioral constraints on opportunistic multiple paternity&lt;/a&gt;, Behavioral ecology and sociobiology, 68, 1531-1538, [citations: 11].
+&lt;b&gt;JGA Martin&lt;/b&gt;, MB Petelle, DT Blumstein (2014) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4385477950937281545&amp;btnI=1&amp;hl=en&#34;&gt;Environmental, social, morphological, and behavioral constraints on opportunistic multiple paternity&lt;/a&gt;, Behavioral ecology and sociobiology, 68, 1531-1538, [citations: 12].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -665,7 +577,7 @@ AJ Lea, DT Blumstein, TW Wey, &lt;b&gt;JGA Martin&lt;/b&gt; (2010) &lt;a href=&#
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-DT Blumstein, AJ Lea, LE Olson, &lt;b&gt;JGA Martin&lt;/b&gt; (2010) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=17528099927244688939&amp;btnI=1&amp;hl=en&#34;&gt;Heritability of anti‐predatory traits: Vigilance and locomotor performance in marmots&lt;/a&gt;, Journal of evolutionary biology, 23 (5), 879-887, [citations: 81].
+DT Blumstein, AJ Lea, LE Olson, &lt;b&gt;JGA Martin&lt;/b&gt; (2010) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=17528099927244688939&amp;btnI=1&amp;hl=en&#34;&gt;Heritability of anti‐predatory traits: Vigilance and locomotor performance in marmots&lt;/a&gt;, Journal of evolutionary biology, 23 (5), 879-887, [citations: 82].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -692,7 +604,7 @@ D Réale, &lt;b&gt;JGA Martin&lt;/b&gt;, DW Coltman, J Poissant, M Festa‐Bianc
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-&lt;b&gt;JGA Martin&lt;/b&gt;, D Réale (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=3370641029285111225&amp;btnI=1&amp;hl=en&#34;&gt;Temperament, risk assessment and habituation to novelty in eastern chipmunks, Tamias striatus&lt;/a&gt;, Animal Behaviour, 75 (1), 309-318, [citations: 408].
+&lt;b&gt;JGA Martin&lt;/b&gt;, D Réale (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=3370641029285111225&amp;btnI=1&amp;hl=en&#34;&gt;Temperament, risk assessment and habituation to novelty in eastern chipmunks, Tamias striatus&lt;/a&gt;, Animal Behaviour, 75 (1), 309-318, [citations: 409].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -706,7 +618,7 @@ D Réale, &lt;b&gt;JGA Martin&lt;/b&gt;, DW Coltman, J Poissant, M Festa‐Bianc
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-C Feder, &lt;b&gt;JGA Martin&lt;/b&gt;, M Festa-Bianchet, C Bérubé, J Jorgenson (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4012659927197824804&amp;btnI=1&amp;hl=en&#34;&gt;Never too late? Consequences of late birthdate for mass and survival of bighorn lambs&lt;/a&gt;, Oecologia, 156, 773-781, [citations: 95].
+C Feder, &lt;b&gt;JGA Martin&lt;/b&gt;, M Festa-Bianchet, C Bérubé, J Jorgenson (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=4012659927197824804&amp;btnI=1&amp;hl=en&#34;&gt;Never too late? Consequences of late birthdate for mass and survival of bighorn lambs&lt;/a&gt;, Oecologia, 156, 773-781, [citations: 96].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;
@@ -720,7 +632,7 @@ M Favre, &lt;b&gt;JGA Martin&lt;/b&gt;, M Festa-Bianchet (2008) &lt;a href=&#34;
 &lt;p&gt;
 &lt;tr&gt;
 &lt;td width=&#34;450&#34;&gt;
-G Rieucau, &lt;b&gt;JGA Martin&lt;/b&gt; (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=16758535570588326520&amp;btnI=1&amp;hl=en&#34;&gt;Many eyes or many ewes: vigilance tactics in female bighorn sheep Ovis canadensis vary according to reproductive status&lt;/a&gt;, Oikos, 117 (4), 501-506, [citations: 61].
+G Rieucau, &lt;b&gt;JGA Martin&lt;/b&gt; (2008) &lt;a href=&#34;https://scholar.google.com/scholar?oi=bibs&amp;cluster=16758535570588326520&amp;btnI=1&amp;hl=en&#34;&gt;Many eyes or many ewes: vigilance tactics in female bighorn sheep Ovis canadensis vary according to reproductive status&lt;/a&gt;, Oikos, 117 (4), 501-506, [citations: 62].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/p&gt;

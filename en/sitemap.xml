@@ -4,12 +4,6 @@
   
   
   <url>
-    <loc>/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>/other/gallery/</loc></url>
   <url>
     <loc>/publication/</loc><lastmod>2022-03-15T00:00:00+00:00</lastmod></url>
@@ -82,10 +76,6 @@
   <url>
     <loc>/tag/quantitative-genetic/</loc><lastmod>2021-02-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>/project/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/project/old_page/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
@@ -150,11 +140,9 @@
   <url>
     <loc>/author/conner-philson/</loc></url>
   <url>
-    <loc>/courses/uottawa/</loc></url>
+    <loc>/courses/</loc></url>
   <url>
     <loc>/author/dan-blumstein/</loc></url>
-  <url>
-    <loc>/courses/tutorials/</loc></url>
   <url>
     <loc>/author/emil-isaksson/</loc></url>
   <url>
