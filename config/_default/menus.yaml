@@ -57,4 +57,8 @@ main:
     parent: "Courses"
     url: "courses#tut"
     weight: 2
+  - name: "Quarto templates"
+    parent: "Courses"
+    url: "courses#quarto"
+    weight: 3
 

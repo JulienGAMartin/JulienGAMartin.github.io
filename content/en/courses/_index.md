@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: "judith_header.jpg"
-title: Courses and Tutorials
+title: Courses and teaching resources
 type: page
 ---
 
@@ -51,3 +51,15 @@ Here is a short description of the course I am teaching at the University of Ott
 * Based on `MCMCglmm`
   - [QGglmm](https://cran.r-project.org/web/packages/QGglmm/vignettes/QGglmmHowTo.pdf) by Pierre de Villemereuil
   - [MCMCglmm](https://devillemereuil.legtux.org/wp-content/uploads/2021/09/tuto_en.pdf) by Pierre de Villemereuil
+
+
+# Quarto templates {#quarto}
+
+A few quarto templates I developed to facilitate open-science for students at uOttawa
+
+* [bio-uo-thesis](https://github.com/JulienGAMartin/quarto-bio-uo-thesis) quarto book project to generate pdf and website thesis adequately formatted for uOttawa (at least biology)
+* [bio-uo-proposal](https://github.com/JulienGAMartin/quarto-bio-uo-proposal) quarto book project to generate pdf and website thesis adequately formatted for uOttawa (at least biology)
+
+Some extra:
+
+* [quarto-bw-board-revealjs](https://github.com/JulienGAMartin/quarto-bw-board-revealjs): quarto template for revealjs slides for a white- or black-board style with associated `ggplot` theme
