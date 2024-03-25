@@ -53,12 +53,16 @@ main:
     parent: "Courses"
     url: "courses#biostat"
     weight: 1
+  - name: "Stats consulting"
+    parent: "Courses"
+    url: "courses#consult"
+    weight: 2
   - name: "Tutorials"
     parent: "Courses"
     url: "courses#tut"
-    weight: 2
+    weight: 3
   - name: "Quarto templates"
     parent: "Courses"
     url: "courses#quarto"
-    weight: 3
+    weight: 4
 

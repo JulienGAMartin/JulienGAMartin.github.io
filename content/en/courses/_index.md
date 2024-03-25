@@ -28,6 +28,20 @@ Here is a short description of the course I am teaching at the University of Ott
   * essentially Bio8940 is a great next steps after completing Bio4x58.
 * [Course site](https://biostats-uottawa.github.io/bio8940_course/) / [Course manual](https://biostats-uottawa.github.io/bio8940_manual/)
 
+# Statistical consulting {#consult}
+
+As Part of my service, I provide statistical consulting.
+Please just contact me to book an appointment to discuss your stat problems.
+
+Please bring with you (or send me in advance):
+
+* your data
+* your R code (should at least load the data into R)
+* a clear working hypothesis
+
+Statistical consulting does not mean that you have to add me as a co-author. I just ask that you add me to the **"Acknowledgements"** of your thesis and manuscript/article. Repeated consulting on the same problem and my implication on developing project specific coding/analysis might lead to co-authorship, but this usually all comes naturally and is always discussed openly with the student(s) and PI(s). As yet, I have never requested to become a co-author and I was offered co-authorship for 3 manuscripts over > 50 projects discussed.
+
+
 
 # Tutorials {#tut}
 
@@ -57,9 +71,13 @@ Here is a short description of the course I am teaching at the University of Ott
 
 A few quarto templates I developed to facilitate open-science for students at uOttawa
 
-* [bio-uo-thesis](https://github.com/JulienGAMartin/quarto-bio-uo-thesis) quarto book project to generate pdf and website thesis adequately formatted for uOttawa (at least biology)
-* [bio-uo-proposal](https://github.com/JulienGAMartin/quarto-bio-uo-proposal) quarto book project to generate pdf and website thesis adequately formatted for uOttawa (at least biology)
+* [bio-uo-proposal](https://github.com/JulienGAMartin/quarto-bio-uo-proposal):  
+  quarto extension providing 1 new pdf output format (`bio-uo-proposal-pdf`). I am working on a docx version but tweaking the frontpage is tricky with word document.
+
+* [bio-uo-thesis](https://github.com/JulienGAMartin/quarto-bio-uo-thesis):  
+  quarto extension  providing two new output formats for book projects: an html (`bio-uo-thesis-html`) and a pdf (`bio-uo-thesis-pdf`) generating a website (to be hosted on github pages or similar) and a pdf of the thesis adequately formatted for uOttawa (at least biology)
 
 Some extra:
 
-* [quarto-bw-board-revealjs](https://github.com/JulienGAMartin/quarto-bw-board-revealjs): quarto template for revealjs slides for a white- or black-board style with associated `ggplot` theme
+* [quarto-bw-board-revealjs](https://github.com/JulienGAMartin/quarto-bw-board-revealjs):  
+  quarto template for revealjs slides for a white- or black-board style with associated `ggplot` theme
