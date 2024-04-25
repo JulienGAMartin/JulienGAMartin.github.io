@@ -10,7 +10,7 @@ type: page
 
 Here is a short description of the course I am teaching at the University of Ottawa. For more details about the course consult the following page [Biostats-uottawa](https://biostats-uottawa.github.io) and the site for each course
 
-### Applied biostatistics with R (BIO 4X58)
+### Applied biostatistics with R (BIO 4X58) {#bio4x58}
 
 
 
@@ -30,7 +30,7 @@ Here is a short description of the course I am teaching at the University of Ott
 </div>
 </div>
 
-### Advanced biostatistics and open science (BIO 8940)
+### Advanced biostatistics and open science (BIO 8940) {#bio8940}
 
 <div class="row">
   <div class="column" style = "width: 20%;">
@@ -80,7 +80,7 @@ Statistical consulting does not mean that you have to add me as a co-author. I j
 
 
 
-### Biostatistics using R
+### Biostatistics using R {#rway}
 
 <div class="row">
   <div class="column" style = "width: 20%;">
@@ -99,7 +99,7 @@ The book (still under development) is available in [English](https://biostats-uo
 
 </div>
 
-### Quantitative genetic
+### Quantitative genetic {#wam_tuto}
 
 <div class="row">
   <div class="column" style = "width: 20%;">
