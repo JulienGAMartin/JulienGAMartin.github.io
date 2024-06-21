@@ -20,12 +20,17 @@ Here is a short description of the course I am teaching at the University of Ott
   </div>
   <div class="column"  style = "width: 80%;">
 
-* Offered to both undergraduate and graduate students in english and french
+* Offered to both undergraduate (Bio4x58) and graduate students (Bio5x58) in english (Bio4158 / Bio5158) and french (Bio4558 / Bio5558)
+* Content:
+  * Foundations of statistics (distributions, CIs, p-values, central limit theorem, Bayesian thinking, ...)
+  * linear models (t-test, ANOVA, regression, ANCOVA, general linear model)
+  * Intro to R and then everything done in R
 * Prerequisite:
-  * an introduction class to statisticis is good to have
+  * an introduction class to statistics is needed (MAT279 or equivalent is required)
   * No (or limited) knowledge of R and no (or limited) knowledge of stats expected.
-* BIO4158 english ([Course site](https://biostats-uottawa.github.io/bio4158_course/) / [Course manual](https://biostats-uottawa.github.io/bio4158_manual/))
-* BIO4558 french ([Course site](https://biostats-uottawa.github.io/bio4558_cours/) / [Course manual](https://biostats-uottawa.github.io/bio4558_manuel/))
+* Course sites: [BioX158: english](https://biostats-uottawa.github.io/bioXx58/en/)/
+[BioX558: french](https://biostats-uottawa.github.io/bioXx58/fr/)
+* Book [On the R-way to hell](https://biostats-uottawa.github.io/R/en/) / [Sur le chemin de l'enf-R](https://biostats-uottawa.github.io/R/fr/) is used as course manual with course specific chapters indicated in the [table](https://biostats-uottawa.github.io/R/en/index.html#chapters-to-read) and on course website.
 
 </div>
 </div>
@@ -39,11 +44,19 @@ Here is a short description of the course I am teaching at the University of Ott
   <div class="column"  style = "width: 80%;">
 
 * Bilingual course for graduate students
+* Content:
+  * Brief revision of linear models (assume to be known and a prerequisite)
+  * Generalized linear model
+  * Mixed models (lmm and glmm)
+  * Bayesian approach
+  * Everything done in R
+  * Quarto / Rmarkdown
 * Prerequisite:
   * a functional knowledge of R (loading data, running basic linear models, and making plots)
   * a good understanding of linear models
   * essentially Bio8940 is a great next steps after completing Bio4x58.
-* [Course site](https://biostats-uottawa.github.io/bio8940_course/) / [Course manual](https://biostats-uottawa.github.io/bio8940_manual/)
+* [Course site](https://biostats-uottawa.github.io/bio8940/)
+* Book [On the R-way to hell](https://biostats-uottawa.github.io/R/en/) / [Sur le chemin de l'enf-R](https://biostats-uottawa.github.io/R/fr/) is used as course manual with course specific chapters indicated in the [table](https://biostats-uottawa.github.io/R/en/index.html#chapters-to-read) and on course website.
 
   </div>
 </div>
