@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD. in Biology
     institution: University of Ottawa
-    year: 2020 - present
+    year: 2020 - 2024
   - course: Master in Ethology
     institution: Université Sorbonne Paris Nord
     year: 2020
@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Ottawa
   url: ""
-role: "PhD: Sexual Selection and Mating Strategies in a Bird with Little Apparent Sexual Dimorphism"
+role: "2024: Sexual Selection and Mating Strategies in a Bird with Little Apparent Sexual Dimorphism"
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,8 +37,8 @@ social:
 superuser: false
 title: Michela Dumas
 user_groups:
-#- PhD students
-- Lab members
+- PhD
+#- Lab members
 ---
 
 Michela uses a quantitative genetic approach to investigate how sexual selection operates within and between the sexes in a species with little apparent sexual dimorphism, the Alpine Swift (Tachymarptis melba). Specifically, she seeks to identify which ornamental traits are under sexual selection and if those traits have similar signalling values in both sexes, as well as the direct and indirect fitness benefits of mating strategies such as divorce. Michela looks forward to hiking in the Swiss Alps following next summer’s field work season to collect her data. 

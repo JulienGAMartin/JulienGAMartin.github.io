@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Ottawa
   url: ""
-role: "PhD: Environmental and individual influences on social learning"
+role: "2024: Environmental and individual influences on social learning"
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,8 +34,8 @@ social:
 superuser: false
 title: Emil Isaksson
 user_groups:
-#- PhD
-- Lab members
+- PhD
+#- Lab members
 ---
 
 Emil is interested in the relation between challenging environmental conditions (e.g. cold winters) and the use of social learning. He uses geographical and temporal environmental gradients to investigate the so called 'harsh environment' hypothesis which states that environments with uncertain food supply should favour cognitive abilities that help mitigate the environmental uncertainty. To study this, Emil has worked with great tits (Parus major) in France and is currently working with black-capped chickadees (Poecile atricapillus). He is co-supervised by Dr. Roslyn Dakin at Carleton University.

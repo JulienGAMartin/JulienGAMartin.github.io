@@ -6,7 +6,7 @@ title: Thibaut Barra
 superuser: false
 
 # Role/position
-role: "PhD: Among individual differences in intra-individual variation in the wild, its importance and evolutionary consequences"
+role: "Among individual differences in intra-individual variation in the wild, its importance and evolutionary consequences"
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab members
+- PhD
+#- Lab members
 ---
 
 I am generally interested in understanding the causes of variation in life history traits in wild populations, with particular on the causes and consequences of within-individual variation in life history. The focus of my research is the evolutionary ecology of reproductive strategies and understanding the impact of environmental variation on adaptation and evolution of traits.
