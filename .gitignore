@@ -8,7 +8,8 @@ docs-local/
 *.code-workspace
 .hugo_build.lock
 train_phil/
-content/en/publication/index.html
+#content/en/publication/index.html
 *.docx
 website-github*
+
 #useless comments
