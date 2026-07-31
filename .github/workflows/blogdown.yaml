@@ -37,6 +37,7 @@ jobs:
     needs: build
     permissions:
       contents: write
+      id-token: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
