@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-public/
+#public/
 docs-old/
 docs-local/
 *.code-workspace
