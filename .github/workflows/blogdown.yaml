@@ -33,12 +33,10 @@ jobs:
           file.create("public/.nojekyll")
         shell: Rscript {0}
 
-
-      - name: Install npm
-        uses: actions/setup-node@v3
-
   deploy:
     needs: build
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
