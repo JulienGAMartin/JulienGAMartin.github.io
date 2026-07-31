@@ -40,8 +40,8 @@ html_1 <- get_publications(giumas)
 # convert to htlm table - the ugly way ;)
 html_2 <- html_1 %>%
   as_tibble() %>%
-  dplyr::mutate(year_rev = - year) %>%
-  dplyr::arrange(year_rev) %>%
+ # dplyr::mutate(year_rev = - year) %>%
+  #dplyr::arrange(year_rev) %>%
   dplyr::mutate(
     # author=str_replace_all(author, " (\\S) ", "\\1 "),
     author = str_replace_all(author, "([A-Z]) ([A-Z]) ", "\\1\\2 "),
