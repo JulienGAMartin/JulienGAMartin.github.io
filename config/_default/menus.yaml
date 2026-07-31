@@ -13,13 +13,12 @@ main:
   - name: People
     url: 'people'
     weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
   - name: Publications
     url: 'publication'
     weight: 40
-
+  - name: OnlyMarms
+    url: 'onlymarms'
+    weight: 45
   - name: Opportunities
     url: opportunities/opp_new
     weight: 50
